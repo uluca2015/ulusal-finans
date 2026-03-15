@@ -3595,6 +3595,96 @@ class AppHandler(BaseHTTPRequestHandler):
             body += chunk
             remaining -= len(chunk)
 
+        # ── VERİ İÇE AKTARMA API ────────────────────────────────────────────────
+        if self.path == '/api/import/json':
+            sess = check_auth(self)
+            if not sess:
+                self.send_json({'ok': False, 'msg': 'Yetkisiz'}, 401); return
+            try:
+                global DATA, GELIR_DATA, BANKA_DATA, KREDI_DATA, CARI_DATA, NOTLAR, OTEL_DATA, HATIRLATMALAR
+                p = json.loads(body)
+                tur = p.get('tur', 'gider')
+                data_in = p.get('data', [])
+                if tur == 'gider':
+                    DATA = data_in
+                    save_data()
+                    self.send_json({'ok': True, 'msg': f'{len(DATA)} gider kaydı yüklendi'})
+                elif tur == 'gelir':
+                    GELIR_DATA = data_in
+                    save_gelir()
+                    self.send_json({'ok': True, 'msg': f'{len(GELIR_DATA)} gelir kaydı yüklendi'})
+                elif tur == 'banka':
+                    BANKA_DATA = data_in
+                    save_banka()
+                    self.send_json({'ok': True, 'msg': f'{len(BANKA_DATA)} banka kaydı yüklendi'})
+                elif tur == 'kredi':
+                    KREDI_DATA = data_in
+                    save_kredi()
+                    self.send_json({'ok': True, 'msg': f'{len(KREDI_DATA)} kredi kaydı yüklendi'})
+                elif tur == 'cari':
+                    CARI_DATA = data_in
+                    save_cari()
+                    self.send_json({'ok': True, 'msg': f'{len(CARI_DATA)} cari kaydı yüklendi'})
+                elif tur == 'notlar':
+                    NOTLAR = data_in
+                    save_notlar()
+                    self.send_json({'ok': True, 'msg': f'{len(NOTLAR)} not yüklendi'})
+                elif tur == 'otel':
+                    if isinstance(data_in, dict):
+                        OTEL_DATA = data_in
+                    else:
+                        OTEL_DATA = {'otel1': data_in}
+                    save_otel_data()
+                    total = sum(len(v) for v in OTEL_DATA.values() if isinstance(v, list))
+                    self.send_json({'ok': True, 'msg': f'{total} otel kaydı yüklendi'})
+                elif tur == 'hatirlatma':
+                    HATIRLATMALAR = data_in
+                    save_hatirlatmalar()
+                    self.send_json({'ok': True, 'msg': f'{len(HATIRLATMALAR)} hatırlatıcı yüklendi'})
+                else:
+                    self.send_json({'ok': False, 'msg': 'Bilinmeyen veri türü'})
+            except Exception as e:
+                self.send_json({'ok': False, 'msg': str(e)})
+            return
+
+        if self.path == '/api/import/excel':
+            sess = check_auth(self)
+            if not sess:
+                self.send_json({'ok': False, 'msg': 'Yetkisiz'}, 401); return
+            try:
+                import cgi, tempfile
+                ctype = self.headers.get('Content-Type','')
+                # multipart/form-data parse
+                environ = {
+                    'REQUEST_METHOD': 'POST',
+                    'CONTENT_TYPE': ctype,
+                    'CONTENT_LENGTH': str(length),
+                }
+                form = cgi.FieldStorage(fp=io.BytesIO(body), environ=environ, keep_blank_values=True)
+                fileitem = form['file']
+                ext = os.path.splitext(fileitem.filename)[1].lower()
+                tmp = tempfile.NamedTemporaryFile(suffix=ext, delete=False)
+                tmp.write(fileitem.file.read())
+                tmp.close()
+                records, sheet = import_excel(tmp.path if hasattr(tmp,'path') else tmp.name)
+                # import_excel farklı dönüyor, düzeltelim
+                result = import_excel(tmp.name)
+                os.unlink(tmp.name)
+                if isinstance(result, tuple):
+                    records, sheet = result
+                elif isinstance(result, list):
+                    records = result
+                else:
+                    records = []
+                DATA[:] = []
+                DATA.extend(records)
+                save_data()
+                self.send_json({'ok': True, 'msg': f'{len(DATA)} kayıt aktarıldı', 'count': len(DATA)})
+            except Exception as e:
+                traceback.print_exc()
+                self.send_json({'ok': False, 'msg': str(e)})
+            return
+
         # ── LOGIN API ─────────────────────────────────────────────────────────
         if self.path == '/api/login':
             try:
@@ -6636,6 +6726,74 @@ hr.dv{border:none;border-top:1px solid var(--b1);margin:14px 0}
   </div>
 </div>
 
+</div>
+
+<!-- VERİ İÇE AKTAR VIEW -->
+<div class="view" id="vw-import">
+  <div class="ptit">⬆ Veri İçe Aktar</div>
+  <div class="psub">JSON veya Excel dosyalarınızı yükleyerek mevcut verilerinizi aktarın</div>
+  <div style="max-width:640px;display:grid;gap:20px">
+
+    <!-- JSON YÜKLEME -->
+    <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:12px;padding:22px">
+      <div style="font-weight:700;font-size:15px;margin-bottom:6px;color:#1e3a5f">📂 JSON Dosyası Yükle</div>
+      <div style="font-size:13px;color:#6b7280;margin-bottom:14px">
+        Eski bilgisayarınızdaki <code style="background:#e5e7eb;padding:2px 6px;border-radius:4px">nakit_akis_data.json</code>,
+        <code style="background:#e5e7eb;padding:2px 6px;border-radius:4px">nakit_akis_gelir.json</code> vb. dosyaları yükleyin.
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px">
+        <label style="font-size:12px;font-weight:600;color:#374151">Veri Türü</label>
+        <label style="font-size:12px;font-weight:600;color:#374151">Dosya</label>
+        <select id="imp-json-tur" style="padding:8px 10px;border:1.5px solid #d1d5db;border-radius:7px;font-size:13px">
+          <option value="gider">Gider Verileri (nakit_akis_data.json)</option>
+          <option value="gelir">Gelir Verileri (nakit_akis_gelir.json)</option>
+          <option value="banka">Banka Bakiyeleri (nakit_akis_banka.json)</option>
+          <option value="kredi">Kredi Limitleri (nakit_akis_kredi.json)</option>
+          <option value="cari">Cari Hesaplar (nakit_akis_cari.json)</option>
+          <option value="notlar">Notlar (nakit_akis_notlar.json)</option>
+          <option value="otel">Otel Verileri (nakit_akis_otel.json)</option>
+          <option value="hatirlatma">Hatırlatıcılar (nakit_akis_hatirlatma.json)</option>
+        </select>
+        <input type="file" id="imp-json-file" accept=".json"
+          style="padding:6px;border:1.5px solid #d1d5db;border-radius:7px;font-size:13px;background:#fff">
+      </div>
+      <div style="display:flex;gap:10px;align-items:center">
+        <button onclick="jsonYukle()" style="background:#1e3a5f;color:#fff;border:none;padding:9px 20px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600">⬆ JSON Yükle</button>
+        <span id="imp-json-msg" style="font-size:13px;color:#6b7280"></span>
+      </div>
+    </div>
+
+    <!-- EXCEL YÜKLEME -->
+    <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:12px;padding:22px">
+      <div style="font-weight:700;font-size:15px;margin-bottom:6px;color:#1e3a5f">📊 Excel Dosyası Yükle</div>
+      <div style="font-size:13px;color:#6b7280;margin-bottom:14px">
+        Nakit akış Excel dosyanızı yükleyin. Sistem otomatik olarak "Nakit Akış" sayfasını bulup okuyacak.
+      </div>
+      <input type="file" id="imp-excel-file" accept=".xlsx,.xls"
+        style="width:100%;padding:8px;border:1.5px solid #d1d5db;border-radius:7px;font-size:13px;background:#fff;margin-bottom:12px">
+      <div style="display:flex;gap:10px;align-items:center">
+        <button onclick="excelYukle()" style="background:#166534;color:#fff;border:none;padding:9px 20px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600">⬆ Excel Yükle</button>
+        <span id="imp-excel-msg" style="font-size:13px;color:#6b7280"></span>
+      </div>
+      <div id="imp-excel-detail" style="margin-top:10px;font-size:13px"></div>
+    </div>
+
+    <!-- TOPLU JSON YÜKLEME -->
+    <div style="background:#eff6ff;border:1px solid #bfdbfe;border-radius:12px;padding:22px">
+      <div style="font-weight:700;font-size:15px;margin-bottom:6px;color:#1d4ed8">🔄 Tüm Verileri Yükle (Toplu)</div>
+      <div style="font-size:13px;color:#1e40af;margin-bottom:14px">
+        Tüm JSON dosyalarınızı tek seferde seçip yükleyin. Her dosya otomatik tanınır.
+      </div>
+      <input type="file" id="imp-toplu-files" accept=".json" multiple
+        style="width:100%;padding:8px;border:1.5px solid #bfdbfe;border-radius:7px;font-size:13px;background:#fff;margin-bottom:12px">
+      <div style="display:flex;gap:10px;align-items:center">
+        <button onclick="topluYukle()" style="background:#1d4ed8;color:#fff;border:none;padding:9px 20px;border-radius:8px;cursor:pointer;font-size:13px;font-weight:600">⬆ Tümünü Yükle</button>
+        <span id="imp-toplu-msg" style="font-size:13px;color:#6b7280"></span>
+      </div>
+      <div id="imp-toplu-detail" style="margin-top:10px"></div>
+    </div>
+
+  </div>
 </div>
 
 <!-- KULLANICILAR VIEW -->
@@ -12518,6 +12676,82 @@ function initApp(){
 initApp();
 
 // ── KULLANICI YÖNETİMİ ────────────────────────────────────────────────────────
+// ── VERİ İÇE AKTARMA FONKSİYONLARI ─────────────────────────────────────────
+async function jsonYukle(){
+  const tur = document.getElementById('imp-json-tur').value;
+  const file = document.getElementById('imp-json-file').files[0];
+  const msg = document.getElementById('imp-json-msg');
+  if(!file){ msg.textContent='Dosya seçin'; msg.style.color='#ef4444'; return; }
+  msg.textContent='Yükleniyor...'; msg.style.color='#6b7280';
+  try{
+    const text = await file.text();
+    const data = JSON.parse(text);
+    const r = await fetch('/api/import/json', {method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({tur, data})});
+    const d = await r.json();
+    if(d.ok){ msg.textContent='✓ '+d.msg; msg.style.color='#166534'; initApp(); }
+    else{ msg.textContent='Hata: '+d.msg; msg.style.color='#ef4444'; }
+  }catch(e){ msg.textContent='Hata: '+e.message; msg.style.color='#ef4444'; }
+}
+
+async function excelYukle(){
+  const file = document.getElementById('imp-excel-file').files[0];
+  const msg = document.getElementById('imp-excel-msg');
+  const detail = document.getElementById('imp-excel-detail');
+  if(!file){ msg.textContent='Dosya seçin'; msg.style.color='#ef4444'; return; }
+  msg.textContent='Yükleniyor... (büyük dosyalar biraz sürebilir)'; msg.style.color='#6b7280';
+  detail.innerHTML='';
+  try{
+    const formData = new FormData();
+    formData.append('file', file);
+    const r = await fetch('/api/import/excel', {method:'POST', body: formData});
+    const d = await r.json();
+    if(d.ok){
+      msg.textContent='✓ '+d.msg; msg.style.color='#166534';
+      detail.innerHTML='<span style="color:#166534">'+d.count+' kayıt aktarıldı.</span>';
+      initApp();
+    } else{ msg.textContent='Hata: '+d.msg; msg.style.color='#ef4444'; }
+  }catch(e){ msg.textContent='Hata: '+e.message; msg.style.color='#ef4444'; }
+}
+
+async function topluYukle(){
+  const files = document.getElementById('imp-toplu-files').files;
+  const msg = document.getElementById('imp-toplu-msg');
+  const detail = document.getElementById('imp-toplu-detail');
+  if(!files.length){ msg.textContent='Dosya seçin'; msg.style.color='#ef4444'; return; }
+  msg.textContent='Yükleniyor...'; msg.style.color='#6b7280';
+  detail.innerHTML='';
+  let results = [];
+  for(const file of files){
+    try{
+      const text = await file.text();
+      const data = JSON.parse(text);
+      // Dosya adından türü tahmin et
+      const name = file.name.toLowerCase();
+      let tur = 'gider';
+      if(name.includes('gelir')) tur='gelir';
+      else if(name.includes('banka')) tur='banka';
+      else if(name.includes('kredi')) tur='kredi';
+      else if(name.includes('cari')) tur='cari';
+      else if(name.includes('notlar')) tur='notlar';
+      else if(name.includes('otel')) tur='otel';
+      else if(name.includes('hatirlatma')) tur='hatirlatma';
+      const r = await fetch('/api/import/json', {method:'POST',
+        headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({tur, data})});
+      const d = await r.json();
+      results.push({file:file.name, tur, ok:d.ok, msg:d.msg});
+    }catch(e){ results.push({file:file.name, ok:false, msg:e.message}); }
+  }
+  msg.textContent='Tamamlandı'; msg.style.color='#166534';
+  detail.innerHTML = results.map(r=>
+    `<div style="font-size:12px;padding:4px 0;color:${r.ok?'#166534':'#ef4444'}">
+      ${r.ok?'✓':'✗'} ${r.file} → ${r.msg}</div>`
+  ).join('');
+  initApp();
+}
+
 async function cikisYap(){
   if(!confirm('Çıkış yapmak istiyor musunuz?')) return;
   await fetch('/api/logout');
