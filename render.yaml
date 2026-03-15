@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: nakit-akis
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python nakit_akis_app.py
+    envVars:
+      - key: PORT
+        value: 10000
