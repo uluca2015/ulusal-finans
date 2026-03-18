@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "banka": "Ziraat Bankası",
+    "firma": "ULUSAL",
+    "tur": "Rotatif",
+    "limit": 10000000,
+    "kullanilan": 8000000,
+    "faiz": 3.75
+  },
+  {
+    "banka": "Vakıfbank",
+    "firma": "ULUSAL",
+    "tur": "Rotatif",
+    "limit": 10000000,
+    "kullanilan": 2000000,
+    "faiz": 3.5
+  },
+  {
+    "banka": "",
+    "firma": "ULUSAL",
+    "tur": "Rotatif",
+    "limit": 10000000,
+    "kullanilan": 1000000,
+    "faiz": 3.8
+  },
+  {
+    "banka": "Halkbank",
+    "firma": "ULUSAL",
+    "tur": "Rotatif",
+    "limit": 0,
+    "kullanilan": 0,
+    "faiz": 0
+  }
+]
