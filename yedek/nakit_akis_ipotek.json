@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "1773738371357",
+    "sno": "1",
+    "kod": "IPT-001",
+    "sahip": "ŞAHİN ERİKİN",
+    "il": "İSTANBUL",
+    "ilce": "ŞİŞLİ",
+    "adres": "FERİKÖY",
+    "ada": "123",
+    "parsel": "42",
+    "bb": "5",
+    "kat": "3",
+    "blok": "A",
+    "nitelik": "MESKEN",
+    "banka": "HALKBANK",
+    "tutar": 25000000,
+    "ipotek_tarih": "2025-01-01",
+    "exp_deger": 30000000,
+    "exp_tarih": "2026-03-01",
+    "tbl_tip": "KAT MÜLKİYETLİ",
+    "dask_no": "",
+    "dask_vade": "",
+    "konut_no": "",
+    "konut_vade": ""
+  }
+]
