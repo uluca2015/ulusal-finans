@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "firma": "ULUSAL",
+    "tur": "FLO TAHSİLATI",
+    "aciklama": "FLO",
+    "tarih": "17.03.2026",
+    "ay": "Mart",
+    "durum": "BEKLENİYOR",
+    "tutar": 100
+  },
+  {
+    "firma": "ULUSAL",
+    "tur": "MÜŞTERİ TAHSİLATI",
+    "aciklama": "DENEME",
+    "tarih": "25.03.2026",
+    "ay": "Mart",
+    "durum": "BEKLENİYOR",
+    "tutar": 500
+  }
+]
