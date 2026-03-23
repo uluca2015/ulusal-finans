@@ -78,7 +78,9 @@
     "personel_mail": "",
     "notlar": "",
     "hesaplar": [],
-    "ipotekler": [],
+    "ipotekler": [
+      "1773738371357"
+    ],
     "limit_taksitli": 0,
     "kullanim_taksitli": 0,
     "faiz_taksitli": 0,
