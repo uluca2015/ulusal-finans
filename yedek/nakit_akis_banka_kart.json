@@ -83,7 +83,7 @@
     ],
     "limit_taksitli": 5750000,
     "kullanim_taksitli": 2000000,
-    "faiz_taksitli": 0,
+    "faiz_taksitli": 0.47,
     "limit_rotatif": 0,
     "kullanim_rotatif": 0,
     "faiz_rotatif": 0,
