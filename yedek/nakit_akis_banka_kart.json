@@ -13,7 +13,7 @@
     "notlar": "",
     "hesaplar": [],
     "ipotekler": [],
-    "limit_taksitli": 0,
+    "limit_taksitli": 5000000,
     "kullanim_taksitli": 3363035.85,
     "faiz_taksitli": 0,
     "limit_rotatif": 0,
