@@ -9,6 +9,9 @@
     "password": "a5eea77bbbe39b711b14b2098a7712a3d8c1e830d2aa62dde04d0141e44133ff",
     "ad": "erva",
     "rol": "user",
-    "created_at": "23.03.2026 14:01"
+    "created_at": "23.03.2026 14:01",
+    "izinler": [
+      "db"
+    ]
   }
 }
