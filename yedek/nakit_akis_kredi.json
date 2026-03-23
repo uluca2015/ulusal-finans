@@ -1,13 +1,5 @@
 [
   {
-    "banka": "Vakıfbank",
-    "firma": "ULUSAL",
-    "tur": "Rotatif",
-    "limit": 10000000,
-    "kullanilan": 2000000,
-    "faiz": 3.5
-  },
-  {
     "banka": "",
     "firma": "ULUSAL",
     "tur": "Rotatif",
