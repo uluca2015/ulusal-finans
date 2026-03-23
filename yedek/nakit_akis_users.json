@@ -12,8 +12,11 @@
     "created_at": "23.03.2026 14:37",
     "izinler": [
       "banka-kart",
+      "tbl",
+      "gelir",
       "cari",
       "kur",
+      "logo",
       "stok",
       "cari-logo"
     ]
