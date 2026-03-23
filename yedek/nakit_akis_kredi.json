@@ -1,5 +1,19 @@
 [
   {
+    "id": "bk_1774251803689_rotatif",
+    "firma": "ULUSAL",
+    "banka": "ZİRAAT BANKASI",
+    "tur": "ROTATİF",
+    "limit": 5000000,
+    "kullanilan": 1000000,
+    "kalan_limit": 4000000,
+    "faiz_yillik": 0.038,
+    "faiz_aylik": 0.0032,
+    "aktif": true,
+    "kaynak": "banka_kart",
+    "banka_kart_id": "1774251803689"
+  },
+  {
     "banka": "Ziraat Bankası",
     "firma": "ULUSAL",
     "tur": "Rotatif",
