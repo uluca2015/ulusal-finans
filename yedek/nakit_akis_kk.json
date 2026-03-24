@@ -61,5 +61,17 @@
         "aciklama": ""
       }
     ]
+  },
+  {
+    "id": "1774362354776",
+    "banka": "HALKBANK",
+    "firma": "ULUSAL",
+    "kart_no": "9950",
+    "limit": 5000000,
+    "kesim_gun": 2,
+    "odeme_gun": 7,
+    "gecikme_faiz": 53.4,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
