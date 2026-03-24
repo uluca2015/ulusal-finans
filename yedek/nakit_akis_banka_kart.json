@@ -12,7 +12,9 @@
     "personel_mail": "",
     "notlar": "",
     "hesaplar": [],
-    "ipotekler": [],
+    "ipotekler": [
+      "1774362730396"
+    ],
     "limit_taksitli": 0,
     "kullanim_taksitli": 0.0,
     "faiz_taksitli": 0,
@@ -60,7 +62,9 @@
         "no": "86"
       }
     ],
-    "ipotekler": [],
+    "ipotekler": [
+      "1773738371357"
+    ],
     "limit_taksitli": 0,
     "kullanim_taksitli": 0.0,
     "faiz_taksitli": 0,
