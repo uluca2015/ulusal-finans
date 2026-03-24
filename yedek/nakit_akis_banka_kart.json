@@ -138,7 +138,12 @@
     "limit_diger": 0,
     "kullanim_diger": 0.0,
     "faiz_diger": 0,
-    "manuel_kullanim_kredi_karti": 100.0
+    "manuel_kullanim_taksitli": 0.0,
+    "manuel_kullanim_rotatif": 0.0,
+    "manuel_kullanim_kmh": 0.0,
+    "manuel_kullanim_kredi_karti": 100.0,
+    "manuel_kullanim_teminat": 0.0,
+    "manuel_kullanim_diger": 0.0
   },
   {
     "id": "1774253248552",
