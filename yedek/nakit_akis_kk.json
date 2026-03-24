@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1774346123083",
+    "banka": "GARANTİ BBVA",
+    "firma": "ULUSAL",
+    "kart_no": "2220",
+    "limit": 400000,
+    "kesim_gun": 30,
+    "odeme_gun": 4,
+    "gecikme_faiz": 53.4,
+    "notlar": "",
+    "harcamalar": []
+  }
+]
