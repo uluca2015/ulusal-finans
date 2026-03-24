@@ -9,15 +9,6 @@
     "odeme_gun": 4,
     "gecikme_faiz": 53.4,
     "notlar": "",
-    "harcamalar": [
-      {
-        "id": "1774347827168",
-        "tarih": "2026-03-24",
-        "firma": "MİGROS",
-        "tutar": 100,
-        "kategori": "Market",
-        "aciklama": "YEMEK ALIMI"
-      }
-    ]
+    "harcamalar": []
   }
 ]
