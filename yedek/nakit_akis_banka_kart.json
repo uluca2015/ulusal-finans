@@ -50,7 +50,7 @@
     "kullanim_taksitli": 0.0,
     "faiz_taksitli": 0,
     "limit_rotatif": 5000000,
-    "kullanim_rotatif": 1000000.0,
+    "kullanim_rotatif": 0.0,
     "faiz_rotatif": 0.45,
     "limit_kmh": 0,
     "kullanim_kmh": 0.0,
