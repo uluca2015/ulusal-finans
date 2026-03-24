@@ -49,6 +49,16 @@
         "odendi": false,
         "kategori": "Diğer",
         "aciklama": ""
+      },
+      {
+        "id": "1774355388199",
+        "tarih": "2026-03-24",
+        "firma": "BANKADAN",
+        "tutar": 500,
+        "tur": "odeme",
+        "odendi": true,
+        "kategori": "Kart Ödemesi",
+        "aciklama": ""
       }
     ]
   }
