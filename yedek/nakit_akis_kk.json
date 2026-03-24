@@ -59,6 +59,16 @@
         "odendi": true,
         "kategori": "Kart Ödemesi",
         "aciklama": ""
+      },
+      {
+        "id": "1774362466961",
+        "tarih": "2026-03-24",
+        "firma": "MİGROS",
+        "tutar": 1000,
+        "tur": "harcama",
+        "odendi": false,
+        "kategori": "Market",
+        "aciklama": ""
       }
     ]
   },
