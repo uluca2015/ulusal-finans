@@ -95,5 +95,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1774364660914",
+    "banka": "HALKBANK",
+    "firma": "ULUSAL",
+    "kart_no": "555",
+    "limit": 1000000,
+    "kesim_gun": null,
+    "odeme_gun": null,
+    "gecikme_faiz": 0,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
