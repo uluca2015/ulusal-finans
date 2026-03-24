@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "bk_1774249925708_taksitli_1774343655",
+    "firma": "ULUSAL",
+    "banka": "VAKIFBANK",
+    "tur": "TAKSİTLİ KREDİ",
+    "limit": 5000000.0,
+    "kullanilan": 2054566.5,
+    "kalan_limit": 2945433.5,
+    "faiz_yillik": 0.0038,
+    "faiz_aylik": 0.00031666666666666665,
+    "aktif": true,
+    "ad": "TAKSİTLİ KREDİ",
+    "bitis": "",
+    "kaynak": "banka_kart",
+    "aciklama": "VAKIFBANK - Banka Kart aktarımı"
+  }
+]
