@@ -39,6 +39,16 @@
         "odendi": false,
         "kategori": "Akaryakıt",
         "aciklama": ""
+      },
+      {
+        "id": "1774355362418",
+        "tarih": "2026-03-24",
+        "firma": "..... HIRDAVAT",
+        "tutar": 1500,
+        "tur": "harcama",
+        "odendi": false,
+        "kategori": "Diğer",
+        "aciklama": ""
       }
     ]
   }
