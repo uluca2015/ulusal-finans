@@ -19,6 +19,16 @@
         "odendi": false,
         "kategori": "Market",
         "aciklama": ""
+      },
+      {
+        "id": "1774352204562",
+        "tarih": "2026-03-24",
+        "firma": "1",
+        "tutar": 50,
+        "tur": "odeme",
+        "odendi": true,
+        "kategori": "Kart Ödemesi",
+        "aciklama": ""
       }
     ]
   }
