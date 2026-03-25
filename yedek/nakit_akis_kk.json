@@ -39,6 +39,16 @@
         "odendi": false,
         "kategori": "Market",
         "aciklama": ""
+      },
+      {
+        "id": "1774451457184",
+        "tarih": "2026-03-25",
+        "firma": "migros",
+        "tutar": 2500,
+        "tur": "harcama",
+        "odendi": false,
+        "kategori": "Market",
+        "aciklama": ""
       }
     ]
   },
