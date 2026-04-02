@@ -151,12 +151,14 @@
     "faiz": 0,
     "bsmv": 0,
     "tutar": 3000000,
-    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi-K.K çekildi"
+    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi-K.K çekildi",
+    "_idx": 10
   },
   {
     "firma": "ULUSAL",
     "tur": "ÇEK ÖDEMESİ",
-    "yer": "AKBANK-FERİKÖY 135604 ULUSAL",
+    "yer": "AKBANK",
+    "kredi_no": "",
     "tarih": "30.01.2026",
     "ay": "Ocak",
     "durum": "ÖDENDİ",
@@ -164,8 +166,7 @@
     "faiz": 0,
     "bsmv": 0,
     "tutar": 3000000,
-    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi - k.k çekilerek ödendi",
-    "_idx": 11
+    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi - k.k çekilerek ödendi"
   },
   {
     "firma": "ULUSAL",
@@ -2603,6 +2604,7 @@
     "faiz": 3586.38,
     "bsmv": 179.32,
     "tutar": 105471.89,
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 185
   }
 ]
