@@ -355,17 +355,17 @@
   },
   {
     "firma": "ULUSAL",
-    "tur": "ÇEK ÖDEMESİ",
-    "yer": "İş bankası -270388",
-    "tarih": "23.02.2026",
+    "tur": "TAKSİTLİ KREDİ ÖDEMESİ",
+    "yer": "İŞBANKASI",
+    "kredi_no": "",
+    "tarih": "13.02.2026",
     "ay": "Şubat",
     "durum": "ÖDENDİ",
-    "anapara": 500000,
-    "faiz": 0,
-    "bsmv": 0,
-    "tutar": 500000,
-    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi",
-    "_idx": 25
+    "anapara": 99762.09,
+    "faiz": 32779.1,
+    "bsmv": 1638.95,
+    "tutar": 134180.14,
+    "aciklama": ""
   },
   {
     "firma": "ABC",
@@ -777,7 +777,8 @@
     "faiz": 0,
     "bsmv": 0,
     "tutar": 3000000,
-    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi"
+    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi",
+    "_idx": 54
   },
   {
     "firma": "ULUSAL",
