@@ -2580,7 +2580,7 @@
     "firma": "ABC",
     "tur": "TAKSİTLİ KREDİ ÖDEMESİ",
     "yer": "VAKIF KATILIM",
-    "kredi_no": "",
+    "kredi_no": "562811",
     "tarih": "13.04.2026",
     "ay": "Nisan",
     "durum": "ÖDENMEDİ",
@@ -2588,8 +2588,7 @@
     "faiz": 7758.3,
     "bsmv": 387.92,
     "tutar": 105471.89,
-    "aciklama": "",
-    "_idx": 184
+    "aciklama": ""
   },
   {
     "firma": "ABC",
