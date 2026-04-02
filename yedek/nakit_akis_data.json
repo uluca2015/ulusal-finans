@@ -200,7 +200,8 @@
   {
     "firma": "ULUSAL",
     "tur": "ÇEK ÖDEMESİ",
-    "yer": "AKBANK-FERİKÖY-ULUSAL-ÇEK-HESABI",
+    "yer": "AKBANK",
+    "kredi_no": "",
     "tarih": "10.02.2026",
     "ay": "Şubat",
     "durum": "ÖDENDİ",
@@ -208,8 +209,7 @@
     "faiz": 0,
     "bsmv": 0,
     "tutar": 2000000,
-    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi",
-    "_idx": 14
+    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi"
   },
   {
     "firma": "ABC",
@@ -405,7 +405,8 @@
     "faiz": 0,
     "bsmv": 0,
     "tutar": 3000000,
-    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi"
+    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi",
+    "_idx": 28
   },
   {
     "firma": "ULUSAL",
