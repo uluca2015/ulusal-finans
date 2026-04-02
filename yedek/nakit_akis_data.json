@@ -635,7 +635,7 @@
     "yer": "AKBANK-FERİKÖY-ULUSAL-ÇEK-HESABI",
     "tarih": "31.03.2026",
     "ay": "Mart",
-    "durum": "ÖDENMEDİ",
+    "durum": "ÖDENDİ",
     "anapara": 2500000,
     "faiz": 0,
     "bsmv": 0,
@@ -2560,19 +2560,5 @@
     "tutar": 201500,
     "aciklama": "",
     "_idx": 182
-  },
-  {
-    "firma": "DENEME",
-    "tur": "KMH",
-    "yer": "U BANKASI",
-    "tarih": "31.03.2026",
-    "ay": "Mart",
-    "durum": "ÖDENMEDİ",
-    "anapara": 5,
-    "faiz": 0,
-    "bsmv": 0,
-    "tutar": 5,
-    "aciklama": "",
-    "_idx": 183
   }
 ]
