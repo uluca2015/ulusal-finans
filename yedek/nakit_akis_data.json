@@ -497,7 +497,8 @@
   {
     "firma": "ULUSAL",
     "tur": "ÇEK ÖDEMESİ",
-    "yer": "YAPIKREDİ BANKASI 62979729",
+    "yer": "YAPI KREDİ",
+    "kredi_no": "",
     "tarih": "14.03.2026",
     "ay": "Mart",
     "durum": "ÖDENDİ",
@@ -505,8 +506,7 @@
     "faiz": 0,
     "bsmv": 0,
     "tutar": 60000,
-    "aciklama": "TOYAP İNŞAAT VE İNŞAAT MALZ.SAN.TİC.A.Ş.",
-    "_idx": 35
+    "aciklama": "TOYAP İNŞAAT VE İNŞAAT MALZ.SAN.TİC.A.Ş."
   },
   {
     "firma": "ULUSAL",
