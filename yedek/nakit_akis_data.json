@@ -2588,13 +2588,14 @@
     "faiz": 7758.3,
     "bsmv": 387.92,
     "tutar": 105471.89,
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 184
   },
   {
     "firma": "ABC",
     "tur": "TAKSİTLİ KREDİ ÖDEMESİ",
     "yer": "VAKIF KATILIM",
-    "kredi_no": "",
+    "kredi_no": "562811",
     "tarih": "12.05.2026",
     "ay": "Mayıs",
     "durum": "ÖDENMEDİ",
