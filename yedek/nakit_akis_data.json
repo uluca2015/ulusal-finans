@@ -2560,5 +2560,19 @@
     "tutar": 201500,
     "aciklama": "",
     "_idx": 182
+  },
+  {
+    "firma": "ABC",
+    "tur": "TAKSİTLİ KREDİ ÖDEMESİ",
+    "yer": "VAKIF KATILIM",
+    "kredi_no": "562811",
+    "tarih": "12.03.2026",
+    "ay": "Mart",
+    "durum": "ÖDENDİ",
+    "anapara": 94968.14,
+    "faiz": 10003.57,
+    "bsmv": 500.18,
+    "tutar": 105471.89,
+    "aciklama": ""
   }
 ]
