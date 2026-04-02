@@ -2573,7 +2573,8 @@
     "faiz": 10003.57,
     "bsmv": 500.18,
     "tutar": 105471.89,
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 183
   },
   {
     "firma": "ABC",
@@ -2586,6 +2587,21 @@
     "anapara": 97325.67,
     "faiz": 7758.3,
     "bsmv": 387.92,
+    "tutar": 105471.89,
+    "aciklama": "",
+    "_idx": 184
+  },
+  {
+    "firma": "ABC",
+    "tur": "TAKSİTLİ KREDİ ÖDEMESİ",
+    "yer": "VAKIF KATILIM",
+    "kredi_no": "",
+    "tarih": "12.05.2026",
+    "ay": "Mayıs",
+    "durum": "ÖDENMEDİ",
+    "anapara": 101706.19,
+    "faiz": 3586.38,
+    "bsmv": 179.32,
     "tutar": 105471.89,
     "aciklama": ""
   }
