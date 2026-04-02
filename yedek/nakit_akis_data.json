@@ -142,7 +142,8 @@
   {
     "firma": "ULUSAL",
     "tur": "ÇEK ÖDEMESİ",
-    "yer": "AKBANK-FERİKÖY 135604 ULUSAL",
+    "yer": "AKBANK",
+    "kredi_no": "",
     "tarih": "25.01.2026",
     "ay": "Ocak",
     "durum": "ÖDENDİ",
@@ -150,8 +151,7 @@
     "faiz": 0,
     "bsmv": 0,
     "tutar": 3000000,
-    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi-K.K çekildi",
-    "_idx": 10
+    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi-K.K çekildi"
   },
   {
     "firma": "ULUSAL",
