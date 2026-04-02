@@ -498,17 +498,16 @@
   {
     "firma": "ULUSAL",
     "tur": "ÇEK ÖDEMESİ",
-    "yer": "YAPI KREDİ",
+    "yer": "YAPIKREDİ",
     "kredi_no": "",
-    "tarih": "14.03.2026",
-    "ay": "Mart",
+    "tarih": "25.02.2026",
+    "ay": "Şubat",
     "durum": "ÖDENDİ",
-    "anapara": 60000,
+    "anapara": 4000000,
     "faiz": 0,
     "bsmv": 0,
-    "tutar": 60000,
-    "aciklama": "TOYAP İNŞAAT VE İNŞAAT MALZ.SAN.TİC.A.Ş.",
-    "_idx": 35
+    "tutar": 4000000,
+    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi"
   },
   {
     "firma": "ULUSAL",
@@ -822,7 +821,8 @@
     "faiz": 0,
     "bsmv": 0,
     "tutar": 3000000,
-    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi"
+    "aciklama": "Teknosa İç ve Dış Ticaret Anonim Şirketi",
+    "_idx": 57
   },
   {
     "firma": "ULUSAL",
