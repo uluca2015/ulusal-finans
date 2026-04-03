@@ -3691,16 +3691,16 @@
   },
   {
     "firma": "ULUSAL",
-    "tur": "DİĞER",
-    "yer": "HALKBANK ",
-    "kredi_no": "LR001514",
-    "tarih": "30.06.2025",
-    "ay": "Haziran",
+    "tur": "ROTATİF",
+    "yer": "YAPIKREDİ",
+    "kredi_no": "250616822853",
+    "tarih": "13.08.2027",
+    "ay": "Ağustos",
     "durum": "ÖDENMEDİ",
-    "anapara": 12000000,
-    "faiz": 1590000,
-    "bsmv": 79500,
-    "tutar": 13669500,
+    "anapara": 427774.46,
+    "faiz": 16665.38,
+    "bsmv": 833.27,
+    "tutar": 445273.11,
     "aciklama": ""
   }
 ]
