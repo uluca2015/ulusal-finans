@@ -3688,25 +3688,5 @@
     "kredi_no": "1001",
     "aciklama": "",
     "_idx": 245
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "GARANTİ BBVA",
-    "kredi_no": "000000001",
-    "tarih": "01.01.2027",
-    "ay": "Ocak",
-    "yil": "2027",
-    "durum": "ÖDENMEDİ",
-    "anapara": 1341726.58,
-    "faiz": 55905.27,
-    "bsmv": 2795.26,
-    "tutar": 1400427.11,
-    "aciklama": "Taksit 10 / 10",
-    "taksitli_id": "1775228953641",
-    "taksit_no": 10,
-    "kullanim_tarihi": "01.03.2026",
-    "odeme_tarihi": "",
-    "_idx": 254
   }
 ]
