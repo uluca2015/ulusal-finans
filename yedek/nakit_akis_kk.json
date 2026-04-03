@@ -49,6 +49,16 @@
         "odendi": false,
         "kategori": "Market",
         "aciklama": ""
+      },
+      {
+        "id": "1775215736645",
+        "tarih": "2026-04-03",
+        "firma": "market",
+        "tutar": 10000000,
+        "tur": "harcama",
+        "odendi": false,
+        "kategori": "Market",
+        "aciklama": ""
       }
     ]
   },
