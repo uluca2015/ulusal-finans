@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1775215259393",
+    "firma": "ULUSAL",
+    "banka": "YAPIKREDİ",
+    "kredi_no": "0000000001",
+    "tur": "ROTATİF",
+    "ana_para": 10000000,
+    "faiz_orani": 45.95,
+    "vade_ay": 24,
+    "bsmv_oran": 5,
+    "aciklama": "",
+    "kullanim": 5000000,
+    "vade_bitis": "2026-04-30",
+    "yenileme_gun": 30,
+    "komisyon_oran": 0,
+    "is_doner": true,
+    "taksitler": []
+  }
+]
