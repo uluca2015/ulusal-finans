@@ -11,7 +11,8 @@
     "bsmv": 1905.39,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 0
   },
   {
     "firma": "ULUSAL",
@@ -25,7 +26,8 @@
     "bsmv": 1744.4,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 1
   },
   {
     "firma": "ULUSAL",
@@ -39,7 +41,8 @@
     "bsmv": 1865.62,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 2
   },
   {
     "firma": "ULUSAL",
@@ -53,7 +56,8 @@
     "bsmv": 1542.35,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 3
   },
   {
     "firma": "ULUSAL",
@@ -67,7 +71,8 @@
     "bsmv": 1647.41,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 4
   },
   {
     "firma": "ULUSAL",
@@ -81,7 +86,8 @@
     "bsmv": 1646.73,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 5
   },
   {
     "firma": "ULUSAL",
@@ -95,7 +101,8 @@
     "bsmv": 1441.79,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 6
   },
   {
     "firma": "ULUSAL",
@@ -109,7 +116,8 @@
     "bsmv": 1574.05,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 7
   },
   {
     "firma": "ULUSAL",
@@ -123,7 +131,8 @@
     "bsmv": 1329.87,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 8
   },
   {
     "firma": "ULUSAL",
@@ -137,7 +146,8 @@
     "bsmv": 1223.3,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 9
   },
   {
     "firma": "ULUSAL",
@@ -151,7 +161,8 @@
     "bsmv": 1241.35,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 10
   },
   {
     "firma": "ULUSAL",
@@ -165,7 +176,8 @@
     "bsmv": 1290.02,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 11
   },
   {
     "firma": "ULUSAL",
@@ -179,105 +191,8 @@
     "bsmv": 1032.36,
     "tutar": 61901.04,
     "kredi_no": "250073783611",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "21.12.2026",
-    "ay": "Aralık",
-    "durum": "ÖDENMEDİ",
-    "anapara": 47534.68,
-    "faiz": 13682.25,
-    "bsmv": 684.11,
-    "tutar": 61901.04,
-    "kredi_no": "250073783611",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "20.01.2027",
-    "ay": "Ocak",
-    "durum": "ÖDENMEDİ",
-    "anapara": 48950.48,
-    "faiz": 12333.87,
-    "bsmv": 616.69,
-    "tutar": 61901.04,
-    "kredi_no": "250073783611",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "22.02.2027",
-    "ay": "Şubat",
-    "durum": "ÖDENMEDİ",
-    "anapara": 49820.35,
-    "faiz": 11505.42,
-    "bsmv": 575.27,
-    "tutar": 61901.04,
-    "kredi_no": "250073783611",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "22.03.2027",
-    "ay": "Mart",
-    "durum": "ÖDENMEDİ",
-    "anapara": 53520.31,
-    "faiz": 7981.65,
-    "bsmv": 399.08,
-    "tutar": 61901.04,
-    "kredi_no": "250073783611",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "20.04.2027",
-    "ay": "Nisan",
-    "durum": "ÖDENMEDİ",
-    "anapara": 55301.12,
-    "faiz": 6285.64,
-    "bsmv": 314.28,
-    "tutar": 61901.04,
-    "kredi_no": "250073783611",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "20.05.2027",
-    "ay": "Mayıs",
-    "durum": "ÖDENMEDİ",
-    "anapara": 57296.99,
-    "faiz": 4384.81,
-    "bsmv": 219.24,
-    "tutar": 61901.04,
-    "kredi_no": "250073783611",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "21.06.2027",
-    "ay": "Haziran",
-    "durum": "ÖDENMEDİ",
-    "anapara": 59447.33,
-    "faiz": 2336.87,
-    "bsmv": 116.84,
-    "tutar": 61901.04,
-    "kredi_no": "250073783611",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 12
   },
   {
     "firma": "ULUSAL",
@@ -291,7 +206,8 @@
     "bsmv": 14048.61,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 13
   },
   {
     "firma": "ULUSAL",
@@ -305,7 +221,8 @@
     "bsmv": 11313.99,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 14
   },
   {
     "firma": "ULUSAL",
@@ -319,7 +236,8 @@
     "bsmv": 12138.3,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 15
   },
   {
     "firma": "ULUSAL",
@@ -333,7 +251,8 @@
     "bsmv": 12162.14,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 16
   },
   {
     "firma": "ULUSAL",
@@ -347,7 +266,8 @@
     "bsmv": 10689.55,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 17
   },
   {
     "firma": "ULUSAL",
@@ -361,7 +281,8 @@
     "bsmv": 11725.5,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 18
   },
   {
     "firma": "ULUSAL",
@@ -375,7 +296,8 @@
     "bsmv": 9612.82,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 19
   },
   {
     "firma": "ULUSAL",
@@ -389,7 +311,8 @@
     "bsmv": 9532.11,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 20
   },
   {
     "firma": "ULUSAL",
@@ -403,7 +326,8 @@
     "bsmv": 9419.15,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 21
   },
   {
     "firma": "ULUSAL",
@@ -417,7 +341,8 @@
     "bsmv": 9870.62,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 22
   },
   {
     "firma": "ULUSAL",
@@ -431,7 +356,8 @@
     "bsmv": 7974.61,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 23
   },
   {
     "firma": "ULUSAL",
@@ -445,217 +371,8 @@
     "bsmv": 8312.8,
     "tutar": 449579.61,
     "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "13.01.2027",
-    "ay": "Ocak",
-    "durum": "ÖDENMEDİ",
-    "anapara": 335996.22,
-    "faiz": 108174.66,
-    "bsmv": 5408.73,
-    "tutar": 449579.61,
-    "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "15.02.2027",
-    "ay": "Şubat",
-    "durum": "ÖDENMEDİ",
-    "anapara": 338382.23,
-    "faiz": 105902.27,
-    "bsmv": 5295.11,
-    "tutar": 449579.61,
-    "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "15.03.2027",
-    "ay": "Mart",
-    "durum": "ÖDENMEDİ",
-    "anapara": 366975.0,
-    "faiz": 78671.06,
-    "bsmv": 3933.55,
-    "tutar": 449579.61,
-    "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "13.04.2027",
-    "ay": "Nisan",
-    "durum": "ÖDENMEDİ",
-    "anapara": 377216.81,
-    "faiz": 68916.95,
-    "bsmv": 3445.85,
-    "tutar": 449579.61,
-    "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "13.05.2027",
-    "ay": "Mayıs",
-    "durum": "ÖDENMEDİ",
-    "anapara": 388749.3,
-    "faiz": 57933.63,
-    "bsmv": 2896.68,
-    "tutar": 449579.61,
-    "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "14.06.2027",
-    "ay": "Haziran",
-    "durum": "ÖDENMEDİ",
-    "anapara": 400114.33,
-    "faiz": 47109.79,
-    "bsmv": 2355.49,
-    "tutar": 449579.61,
-    "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "13.07.2027",
-    "ay": "Temmuz",
-    "durum": "ÖDENMEDİ",
-    "anapara": 419134.98,
-    "faiz": 28994.89,
-    "bsmv": 1449.74,
-    "tutar": 449579.61,
-    "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "13.08.2027",
-    "ay": "Ağustos",
-    "durum": "ÖDENMEDİ",
-    "anapara": 427774.46,
-    "faiz": 16665.38,
-    "bsmv": 833.27,
-    "tutar": 445273.11,
-    "kredi_no": "250616822853",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "TEB",
-    "tarih": "13.09.2024",
-    "ay": "Eylül",
-    "durum": "ÖDENDİ",
-    "anapara": 48248.14,
-    "faiz": 81840.0,
-    "bsmv": 4092.0,
-    "tutar": 134180.14,
-    "kredi_no": "130244124",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "TEB",
-    "tarih": "14.10.2024",
-    "ay": "Ekim",
-    "durum": "ÖDENDİ",
-    "anapara": 50321.17,
-    "faiz": 79865.69,
-    "bsmv": 3993.28,
-    "tutar": 134180.14,
-    "kredi_no": "130244124",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "TEB",
-    "tarih": "13.11.2024",
-    "ay": "Kasım",
-    "durum": "ÖDENDİ",
-    "anapara": 55118.65,
-    "faiz": 75296.66,
-    "bsmv": 3764.83,
-    "tutar": 134180.14,
-    "kredi_no": "130244124",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "TEB",
-    "tarih": "13.12.2024",
-    "ay": "Aralık",
-    "durum": "ÖDENDİ",
-    "anapara": 57410.48,
-    "faiz": 73113.96,
-    "bsmv": 3655.7,
-    "tutar": 134180.14,
-    "kredi_no": "130244124",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "TEB",
-    "tarih": "13.01.2025",
-    "ay": "Ocak",
-    "durum": "ÖDENDİ",
-    "anapara": 57318.2,
-    "faiz": 73201.85,
-    "bsmv": 3660.09,
-    "tutar": 134180.14,
-    "kredi_no": "130244124",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "TEB",
-    "tarih": "13.02.2025",
-    "ay": "Şubat",
-    "durum": "ÖDENDİ",
-    "anapara": 59780.93,
-    "faiz": 70856.39,
-    "bsmv": 3542.82,
-    "tutar": 134180.14,
-    "kredi_no": "130244124",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "TEB",
-    "tarih": "13.03.2025",
-    "ay": "Mart",
-    "durum": "ÖDENDİ",
-    "anapara": 69300.83,
-    "faiz": 61789.82,
-    "bsmv": 3089.49,
-    "tutar": 134180.14,
-    "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 24
   },
   {
     "firma": "ULUSAL",
@@ -669,7 +386,8 @@
     "bsmv": 3384.48,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 28
   },
   {
     "firma": "ULUSAL",
@@ -683,7 +401,8 @@
     "bsmv": 2946.4,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 29
   },
   {
     "firma": "ULUSAL",
@@ -697,7 +416,8 @@
     "bsmv": 3001.67,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 30
   },
   {
     "firma": "ULUSAL",
@@ -711,7 +431,8 @@
     "bsmv": 2856.1,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 31
   },
   {
     "firma": "ULUSAL",
@@ -725,7 +446,8 @@
     "bsmv": 2617.05,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 32
   },
   {
     "firma": "ULUSAL",
@@ -739,7 +461,8 @@
     "bsmv": 2706.21,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 33
   },
   {
     "firma": "ULUSAL",
@@ -753,7 +476,8 @@
     "bsmv": 2153.24,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 34
   },
   {
     "firma": "ULUSAL",
@@ -767,7 +491,8 @@
     "bsmv": 2201.92,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 35
   },
   {
     "firma": "ULUSAL",
@@ -781,7 +506,8 @@
     "bsmv": 2087.22,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 36
   },
   {
     "firma": "ULUSAL",
@@ -795,7 +521,8 @@
     "bsmv": 1718.62,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 37
   },
   {
     "firma": "ULUSAL",
@@ -809,7 +536,8 @@
     "bsmv": 1638.95,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 38
   },
   {
     "firma": "ULUSAL",
@@ -823,7 +551,8 @@
     "bsmv": 1293.63,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 39
   },
   {
     "firma": "ULUSAL",
@@ -837,7 +566,8 @@
     "bsmv": 1213.28,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 40
   },
   {
     "firma": "ULUSAL",
@@ -851,7 +581,8 @@
     "bsmv": 958.92,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 41
   },
   {
     "firma": "ULUSAL",
@@ -865,7 +596,8 @@
     "bsmv": 806.42,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 42
   },
   {
     "firma": "ULUSAL",
@@ -879,77 +611,8 @@
     "bsmv": 467.57,
     "tutar": 134180.14,
     "kredi_no": "130244124",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "25.11.2024",
-    "ay": "Kasım",
-    "durum": "ÖDENDİ",
-    "anapara": 52021.11,
-    "faiz": 73750.0,
-    "bsmv": 3687.5,
-    "tutar": 129458.61,
-    "kredi_no": "16502",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "25.12.2024",
-    "ay": "Aralık",
-    "durum": "ÖDENDİ",
-    "anapara": 54035.32,
-    "faiz": 71831.7,
-    "bsmv": 3591.59,
-    "tutar": 129458.61,
-    "kredi_no": "16502",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "25.01.2025",
-    "ay": "Ocak",
-    "durum": "ÖDENDİ",
-    "anapara": 56127.55,
-    "faiz": 69839.1,
-    "bsmv": 3491.96,
-    "tutar": 129458.61,
-    "kredi_no": "16502",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "25.02.2025",
-    "ay": "Şubat",
-    "durum": "ÖDENDİ",
-    "anapara": 58300.74,
-    "faiz": 67769.4,
-    "bsmv": 3388.47,
-    "tutar": 129458.61,
-    "kredi_no": "16502",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "25.03.2025",
-    "ay": "Mart",
-    "durum": "ÖDENDİ",
-    "anapara": 60558.03,
-    "faiz": 65619.6,
-    "bsmv": 3280.98,
-    "tutar": 129458.61,
-    "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 43
   },
   {
     "firma": "ABC",
@@ -963,7 +626,8 @@
     "bsmv": 3169.33,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 48
   },
   {
     "firma": "ABC",
@@ -977,7 +641,8 @@
     "bsmv": 3053.35,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 49
   },
   {
     "firma": "ABC",
@@ -991,7 +656,8 @@
     "bsmv": 2932.88,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 50
   },
   {
     "firma": "ABC",
@@ -1005,7 +671,8 @@
     "bsmv": 2807.75,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 51
   },
   {
     "firma": "ABC",
@@ -1019,7 +686,8 @@
     "bsmv": 2677.78,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 52
   },
   {
     "firma": "ABC",
@@ -1033,7 +701,8 @@
     "bsmv": 2542.77,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 53
   },
   {
     "firma": "ABC",
@@ -1047,7 +716,8 @@
     "bsmv": 2402.53,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 54
   },
   {
     "firma": "ABC",
@@ -1061,7 +731,8 @@
     "bsmv": 2256.86,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 55
   },
   {
     "firma": "ABC",
@@ -1075,7 +746,8 @@
     "bsmv": 2105.55,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 56
   },
   {
     "firma": "ABC",
@@ -1089,7 +761,8 @@
     "bsmv": 1948.39,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 57
   },
   {
     "firma": "ABC",
@@ -1103,7 +776,8 @@
     "bsmv": 1785.14,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 58
   },
   {
     "firma": "ABC",
@@ -1117,7 +791,8 @@
     "bsmv": 1615.57,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 59
   },
   {
     "firma": "ABC",
@@ -1131,7 +806,8 @@
     "bsmv": 1439.43,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 60
   },
   {
     "firma": "ABC",
@@ -1145,7 +821,8 @@
     "bsmv": 1256.48,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 61
   },
   {
     "firma": "ABC",
@@ -1159,7 +836,8 @@
     "bsmv": 1066.44,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 62
   },
   {
     "firma": "ABC",
@@ -1173,77 +851,8 @@
     "bsmv": 869.04,
     "tutar": 129458.61,
     "kredi_no": "16502",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "11.11.2024",
-    "ay": "Kasım",
-    "durum": "ÖDENDİ",
-    "anapara": 130125.64,
-    "faiz": 184166.65,
-    "bsmv": 9208.33,
-    "tutar": 323500.62,
-    "kredi_no": "16497",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "11.12.2024",
-    "ay": "Aralık",
-    "durum": "ÖDENDİ",
-    "anapara": 135158.25,
-    "faiz": 179373.69,
-    "bsmv": 8968.68,
-    "tutar": 323500.62,
-    "kredi_no": "16497",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "11.01.2025",
-    "ay": "Ocak",
-    "durum": "ÖDENDİ",
-    "anapara": 140385.49,
-    "faiz": 174395.36,
-    "bsmv": 8719.77,
-    "tutar": 323500.62,
-    "kredi_no": "16497",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "11.02.2025",
-    "ay": "Şubat",
-    "durum": "ÖDENDİ",
-    "anapara": 145814.9,
-    "faiz": 169224.5,
-    "bsmv": 8461.23,
-    "tutar": 323500.62,
-    "kredi_no": "16497",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "FİNANSBANK",
-    "tarih": "11.03.2025",
-    "ay": "Mart",
-    "durum": "ÖDENDİ",
-    "anapara": 151454.29,
-    "faiz": 163853.65,
-    "bsmv": 8192.68,
-    "tutar": 323500.62,
-    "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 63
   },
   {
     "firma": "ABC",
@@ -1257,7 +866,8 @@
     "bsmv": 7913.75,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 67
   },
   {
     "firma": "ABC",
@@ -1271,7 +881,8 @@
     "bsmv": 7624.04,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 68
   },
   {
     "firma": "ABC",
@@ -1285,7 +896,8 @@
     "bsmv": 7323.12,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 69
   },
   {
     "firma": "ABC",
@@ -1299,7 +911,8 @@
     "bsmv": 7010.56,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 70
   },
   {
     "firma": "ABC",
@@ -1313,7 +926,8 @@
     "bsmv": 6685.91,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 71
   },
   {
     "firma": "ABC",
@@ -1327,7 +941,8 @@
     "bsmv": 6348.71,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 72
   },
   {
     "firma": "ABC",
@@ -1341,7 +956,8 @@
     "bsmv": 5998.47,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 73
   },
   {
     "firma": "ABC",
@@ -1355,7 +971,8 @@
     "bsmv": 5634.68,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 74
   },
   {
     "firma": "ABC",
@@ -1369,7 +986,8 @@
     "bsmv": 5256.82,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 75
   },
   {
     "firma": "ABC",
@@ -1383,7 +1001,8 @@
     "bsmv": 4864.34,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 76
   },
   {
     "firma": "ABC",
@@ -1397,7 +1016,8 @@
     "bsmv": 4456.69,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 77
   },
   {
     "firma": "ABC",
@@ -1411,7 +1031,8 @@
     "bsmv": 4033.27,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 78
   },
   {
     "firma": "ABC",
@@ -1425,7 +1046,8 @@
     "bsmv": 3593.48,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 79
   },
   {
     "firma": "ABC",
@@ -1439,7 +1061,8 @@
     "bsmv": 3136.68,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 80
   },
   {
     "firma": "ABC",
@@ -1453,7 +1076,8 @@
     "bsmv": 2662.21,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 81
   },
   {
     "firma": "ABC",
@@ -1467,7 +1091,8 @@
     "bsmv": 2169.39,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 82
   },
   {
     "firma": "ABC",
@@ -1481,133 +1106,8 @@
     "bsmv": 1657.51,
     "tutar": 323500.62,
     "kredi_no": "16497",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "16.07.2024",
-    "ay": "Temmuz",
-    "durum": "ÖDENDİ",
-    "anapara": 68381.06,
-    "faiz": 122960.56,
-    "bsmv": 6148.03,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "14.08.2024",
-    "ay": "Ağustos",
-    "durum": "ÖDENDİ",
-    "anapara": 87358.5,
-    "faiz": 104886.81,
-    "bsmv": 5244.34,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "16.09.2024",
-    "ay": "Eylül",
-    "durum": "ÖDENDİ",
-    "anapara": 75083.51,
-    "faiz": 116577.28,
-    "bsmv": 5828.86,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "14.10.2024",
-    "ay": "Ekim",
-    "durum": "ÖDENDİ",
-    "anapara": 93460.9,
-    "faiz": 99075.0,
-    "bsmv": 4953.75,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "14.11.2024",
-    "ay": "Kasım",
-    "durum": "ÖDENDİ",
-    "anapara": 89792.08,
-    "faiz": 102569.11,
-    "bsmv": 5128.46,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "16.12.2024",
-    "ay": "Aralık",
-    "durum": "ÖDENDİ",
-    "anapara": 86201.33,
-    "faiz": 105988.88,
-    "bsmv": 5299.44,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "14.01.2025",
-    "ay": "Ocak",
-    "durum": "ÖDENDİ",
-    "anapara": 103583.4,
-    "faiz": 89434.52,
-    "bsmv": 4471.73,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "14.02.2025",
-    "ay": "Şubat",
-    "durum": "ÖDENDİ",
-    "anapara": 101045.05,
-    "faiz": 91852.0,
-    "bsmv": 4592.6,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
-  },
-  {
-    "firma": "ABC",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "14.03.2025",
-    "ay": "Mart",
-    "durum": "ÖDENDİ",
-    "anapara": 105112.11,
-    "faiz": 87978.61,
-    "bsmv": 4398.93,
-    "tutar": 197489.65,
-    "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 83
   },
   {
     "firma": "ABC",
@@ -1621,7 +1121,8 @@
     "bsmv": 4197.47,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 88
   },
   {
     "firma": "ABC",
@@ -1635,7 +1136,8 @@
     "bsmv": 3987.89,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 89
   },
   {
     "firma": "ABC",
@@ -1649,7 +1151,8 @@
     "bsmv": 4030.84,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 90
   },
   {
     "firma": "ABC",
@@ -1663,7 +1166,8 @@
     "bsmv": 3316.7,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 91
   },
   {
     "firma": "ABC",
@@ -1677,7 +1181,8 @@
     "bsmv": 3308.58,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 92
   },
   {
     "firma": "ABC",
@@ -1691,7 +1196,8 @@
     "bsmv": 3169.25,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 93
   },
   {
     "firma": "ABC",
@@ -1705,7 +1211,8 @@
     "bsmv": 2718.52,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 94
   },
   {
     "firma": "ABC",
@@ -1719,7 +1226,8 @@
     "bsmv": 2543.17,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 95
   },
   {
     "firma": "ABC",
@@ -1733,7 +1241,8 @@
     "bsmv": 2345.47,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 96
   },
   {
     "firma": "ABC",
@@ -1747,7 +1256,8 @@
     "bsmv": 1916.79,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 97
   },
   {
     "firma": "ABC",
@@ -1761,7 +1271,8 @@
     "bsmv": 1797.92,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 98
   },
   {
     "firma": "ABC",
@@ -1775,7 +1286,8 @@
     "bsmv": 1375.36,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 99
   },
   {
     "firma": "ABC",
@@ -1789,7 +1301,8 @@
     "bsmv": 982.05,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 100
   },
   {
     "firma": "ABC",
@@ -1803,7 +1316,8 @@
     "bsmv": 713.2,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 101
   },
   {
     "firma": "ABC",
@@ -1817,7 +1331,8 @@
     "bsmv": 375.97,
     "tutar": 197489.65,
     "kredi_no": "6500914216",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 102
   },
   {
     "firma": "ABC",
@@ -1831,7 +1346,8 @@
     "bsmv": 944.03,
     "tutar": 52811.38,
     "kredi_no": "6501403970",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 103
   },
   {
     "firma": "ABC",
@@ -1845,7 +1361,8 @@
     "bsmv": 823.89,
     "tutar": 52811.38,
     "kredi_no": "6501403970",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 104
   },
   {
     "firma": "ABC",
@@ -1859,7 +1376,8 @@
     "bsmv": 841.91,
     "tutar": 52811.38,
     "kredi_no": "6501403970",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 105
   },
   {
     "firma": "ABC",
@@ -1873,7 +1391,8 @@
     "bsmv": 723.38,
     "tutar": 52811.38,
     "kredi_no": "6501403970",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 106
   },
   {
     "firma": "ABC",
@@ -1887,7 +1406,8 @@
     "bsmv": 611.07,
     "tutar": 52811.38,
     "kredi_no": "6501403970",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 107
   },
   {
     "firma": "ABC",
@@ -1901,7 +1421,8 @@
     "bsmv": 581.76,
     "tutar": 52811.38,
     "kredi_no": "6501403970",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 108
   },
   {
     "firma": "ABC",
@@ -1915,7 +1436,8 @@
     "bsmv": 525.22,
     "tutar": 52811.38,
     "kredi_no": "6501403970",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 109
   },
   {
     "firma": "ABC",
@@ -1929,77 +1451,8 @@
     "bsmv": 417.04,
     "tutar": 52811.38,
     "kredi_no": "6501403970",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "22.11.2024",
-    "ay": "Kasım",
-    "durum": "ÖDENDİ",
-    "anapara": 116322.0,
-    "faiz": 168750.0,
-    "bsmv": 8437.5,
-    "tutar": 293509.5,
-    "kredi_no": "65009866584",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "23.12.2024",
-    "ay": "Aralık",
-    "durum": "ÖDENDİ",
-    "anapara": 114932.84,
-    "faiz": 170073.01,
-    "bsmv": 8503.65,
-    "tutar": 293509.5,
-    "kredi_no": "65009866584",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "22.01.2025",
-    "ay": "Ocak",
-    "durum": "ÖDENDİ",
-    "anapara": 131030.39,
-    "faiz": 154742.01,
-    "bsmv": 7737.1,
-    "tutar": 293509.5,
-    "kredi_no": "65009866584",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "24.02.2025",
-    "ay": "Şubat",
-    "durum": "ÖDENDİ",
-    "anapara": 119318.17,
-    "faiz": 165896.5,
-    "bsmv": 8294.83,
-    "tutar": 293509.5,
-    "kredi_no": "65009866584",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "VAKIFBANK",
-    "tarih": "24.03.2025",
-    "ay": "Mart",
-    "durum": "ÖDENDİ",
-    "anapara": 135285.14,
-    "faiz": 150689.87,
-    "bsmv": 7534.49,
-    "tutar": 293509.5,
-    "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 110
   },
   {
     "firma": "ULUSAL",
@@ -2013,7 +1466,8 @@
     "bsmv": 6795.44,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 115
   },
   {
     "firma": "ULUSAL",
@@ -2027,7 +1481,8 @@
     "bsmv": 6998.07,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 116
   },
   {
     "firma": "ULUSAL",
@@ -2041,7 +1496,8 @@
     "bsmv": 6955.81,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 117
   },
   {
     "firma": "ULUSAL",
@@ -2055,7 +1511,8 @@
     "bsmv": 6231.95,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 118
   },
   {
     "firma": "ULUSAL",
@@ -2069,7 +1526,8 @@
     "bsmv": 6141.9,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 119
   },
   {
     "firma": "ULUSAL",
@@ -2083,7 +1541,8 @@
     "bsmv": 5833.41,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 120
   },
   {
     "firma": "ULUSAL",
@@ -2097,7 +1556,8 @@
     "bsmv": 5512.77,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 121
   },
   {
     "firma": "ULUSAL",
@@ -2111,7 +1571,8 @@
     "bsmv": 5537.75,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 122
   },
   {
     "firma": "ULUSAL",
@@ -2125,7 +1586,8 @@
     "bsmv": 4524.07,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 123
   },
   {
     "firma": "ULUSAL",
@@ -2139,7 +1601,8 @@
     "bsmv": 4475.03,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 124
   },
   {
     "firma": "ULUSAL",
@@ -2153,7 +1616,8 @@
     "bsmv": 4242.72,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 125
   },
   {
     "firma": "ULUSAL",
@@ -2167,7 +1631,8 @@
     "bsmv": 3717.63,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 126
   },
   {
     "firma": "ULUSAL",
@@ -2181,7 +1646,8 @@
     "bsmv": 3203.22,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 127
   },
   {
     "firma": "ULUSAL",
@@ -2195,7 +1661,8 @@
     "bsmv": 2889.48,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 128
   },
   {
     "firma": "ULUSAL",
@@ -2209,7 +1676,8 @@
     "bsmv": 2452.92,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 129
   },
   {
     "firma": "ULUSAL",
@@ -2223,133 +1691,8 @@
     "bsmv": 1999.17,
     "tutar": 293509.5,
     "kredi_no": "65009866584",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.07.2024",
-    "ay": "Temmuz",
-    "durum": "ÖDENDİ",
-    "anapara": 58418.64,
-    "faiz": 204083.33,
-    "bsmv": 10204.17,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "12.08.2024",
-    "ay": "Ağustos",
-    "durum": "ÖDENDİ",
-    "anapara": 47258.84,
-    "faiz": 214711.71,
-    "bsmv": 10735.59,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.09.2024",
-    "ay": "Eylül",
-    "durum": "ÖDENDİ",
-    "anapara": 76480.51,
-    "faiz": 186881.55,
-    "bsmv": 9344.08,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.10.2024",
-    "ay": "Ekim",
-    "durum": "ÖDENDİ",
-    "anapara": 72886.14,
-    "faiz": 190304.76,
-    "bsmv": 9515.24,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "11.11.2024",
-    "ay": "Kasım",
-    "durum": "ÖDENDİ",
-    "anapara": 62789.29,
-    "faiz": 199920.81,
-    "bsmv": 9996.04,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.12.2024",
-    "ay": "Aralık",
-    "durum": "ÖDENDİ",
-    "anapara": 84986.37,
-    "faiz": 178780.73,
-    "bsmv": 8939.04,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.01.2025",
-    "ay": "Ocak",
-    "durum": "ÖDENDİ",
-    "anapara": 62971.29,
-    "faiz": 199747.48,
-    "bsmv": 9987.37,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.02.2025",
-    "ay": "Şubat",
-    "durum": "ÖDENDİ",
-    "anapara": 90918.37,
-    "faiz": 173131.21,
-    "bsmv": 8656.56,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.03.2025",
-    "ay": "Mart",
-    "durum": "ÖDENDİ",
-    "anapara": 100706.36,
-    "faiz": 163809.31,
-    "bsmv": 8190.47,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 130
   },
   {
     "firma": "ULUSAL",
@@ -2363,7 +1706,8 @@
     "bsmv": 8862.49,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 134
   },
   {
     "firma": "ULUSAL",
@@ -2377,7 +1721,8 @@
     "bsmv": 8965.95,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 135
   },
   {
     "firma": "ULUSAL",
@@ -2391,7 +1736,8 @@
     "bsmv": 7964.22,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 136
   },
   {
     "firma": "ULUSAL",
@@ -2405,7 +1751,8 @@
     "bsmv": 8030.57,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 137
   },
   {
     "firma": "ULUSAL",
@@ -2419,7 +1766,8 @@
     "bsmv": 8346.71,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 138
   },
   {
     "firma": "ULUSAL",
@@ -2433,7 +1781,8 @@
     "bsmv": 7632.63,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 139
   },
   {
     "firma": "ULUSAL",
@@ -2447,7 +1796,8 @@
     "bsmv": 7904.64,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 140
   },
   {
     "firma": "ULUSAL",
@@ -2461,7 +1811,8 @@
     "bsmv": 6959.85,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 141
   },
   {
     "firma": "ULUSAL",
@@ -2475,7 +1826,8 @@
     "bsmv": 6949.91,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 142
   },
   {
     "firma": "ULUSAL",
@@ -2489,7 +1841,8 @@
     "bsmv": 7369.52,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 143
   },
   {
     "firma": "ULUSAL",
@@ -2503,7 +1856,8 @@
     "bsmv": 6251.07,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 144
   },
   {
     "firma": "ULUSAL",
@@ -2517,7 +1871,8 @@
     "bsmv": 5774.81,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 145
   },
   {
     "firma": "ULUSAL",
@@ -2531,7 +1886,8 @@
     "bsmv": 6477.03,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 146
   },
   {
     "firma": "ULUSAL",
@@ -2545,7 +1901,8 @@
     "bsmv": 5430.97,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 147
   },
   {
     "firma": "ULUSAL",
@@ -2559,7 +1916,8 @@
     "bsmv": 5304.9,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 148
   },
   {
     "firma": "ULUSAL",
@@ -2573,7 +1931,8 @@
     "bsmv": 5318.75,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 149
   },
   {
     "firma": "ULUSAL",
@@ -2587,231 +1946,8 @@
     "bsmv": 4512.72,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "11.01.2027",
-    "ay": "Ocak",
-    "durum": "ÖDENMEDİ",
-    "anapara": 209982.46,
-    "faiz": 59736.84,
-    "bsmv": 2986.84,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.02.2027",
-    "ay": "Şubat",
-    "durum": "ÖDENMEDİ",
-    "anapara": 222611.71,
-    "faiz": 47708.98,
-    "bsmv": 2385.45,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "12.03.2027",
-    "ay": "Mart",
-    "durum": "ÖDENMEDİ",
-    "anapara": 229120.42,
-    "faiz": 41510.21,
-    "bsmv": 2075.51,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "12.04.2027",
-    "ay": "Nisan",
-    "durum": "ÖDENMEDİ",
-    "anapara": 242392.59,
-    "faiz": 28870.05,
-    "bsmv": 1443.5,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.05.2027",
-    "ay": "Mayıs",
-    "durum": "ÖDENMEDİ",
-    "anapara": 252820.9,
-    "faiz": 18938.32,
-    "bsmv": 946.92,
-    "tutar": 272706.14,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "10.06.2027",
-    "ay": "Haziran",
-    "durum": "ÖDENMEDİ",
-    "anapara": 260876.77,
-    "faiz": 10648.12,
-    "bsmv": 532.41,
-    "tutar": 272057.3,
-    "kredi_no": "246324480007",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "08.07.2024",
-    "ay": "Temmuz",
-    "durum": "ÖDENDİ",
-    "anapara": 69129.65,
-    "faiz": 152533.33,
-    "bsmv": 7626.67,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "07.08.2024",
-    "ay": "Ağustos",
-    "durum": "ÖDENDİ",
-    "anapara": 82333.43,
-    "faiz": 139958.3,
-    "bsmv": 6997.91,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "09.09.2024",
-    "ay": "Eylül",
-    "durum": "ÖDENDİ",
-    "anapara": 71822.0,
-    "faiz": 149969.19,
-    "bsmv": 7498.46,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "07.10.2024",
-    "ay": "Ekim",
-    "durum": "ÖDENDİ",
-    "anapara": 98777.71,
-    "faiz": 124297.09,
-    "bsmv": 6214.85,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "07.11.2024",
-    "ay": "Kasım",
-    "durum": "ÖDENDİ",
-    "anapara": 89509.92,
-    "faiz": 133123.55,
-    "bsmv": 6656.18,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "09.12.2024",
-    "ay": "Aralık",
-    "durum": "ÖDENDİ",
-    "anapara": 89411.96,
-    "faiz": 133216.85,
-    "bsmv": 6660.84,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "07.01.2025",
-    "ay": "Ocak",
-    "durum": "ÖDENDİ",
-    "anapara": 106518.62,
-    "faiz": 116924.79,
-    "bsmv": 5846.24,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "07.02.2025",
-    "ay": "Şubat",
-    "durum": "ÖDENDİ",
-    "anapara": 94997.97,
-    "faiz": 127896.84,
-    "bsmv": 6394.84,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "07.03.2025",
-    "ay": "Mart",
-    "durum": "ÖDENDİ",
-    "anapara": 119441.51,
-    "faiz": 104617.28,
-    "bsmv": 5230.86,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "YAPIKREDİ",
-    "tarih": "07.04.2025",
-    "ay": "Nisan",
-    "durum": "ÖDENDİ",
-    "anapara": 120852.61,
-    "faiz": 103273.37,
-    "bsmv": 5163.67,
-    "tutar": 229289.65,
-    "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 150
   },
   {
     "firma": "ULUSAL",
@@ -2825,7 +1961,8 @@
     "bsmv": 5075.85,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 155
   },
   {
     "firma": "ULUSAL",
@@ -2839,7 +1976,8 @@
     "bsmv": 5446.71,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 156
   },
   {
     "firma": "ULUSAL",
@@ -2853,7 +1991,8 @@
     "bsmv": 4097.81,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 157
   },
   {
     "firma": "ULUSAL",
@@ -2867,7 +2006,8 @@
     "bsmv": 4379.27,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 158
   },
   {
     "firma": "ULUSAL",
@@ -2881,7 +2021,8 @@
     "bsmv": 4198.28,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 159
   },
   {
     "firma": "ULUSAL",
@@ -2895,7 +2036,8 @@
     "bsmv": 3504.56,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 160
   },
   {
     "firma": "ULUSAL",
@@ -2909,7 +2051,8 @@
     "bsmv": 3611.17,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 161
   },
   {
     "firma": "ULUSAL",
@@ -2923,7 +2066,8 @@
     "bsmv": 2847.1,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 162
   },
   {
     "firma": "ULUSAL",
@@ -2937,7 +2081,8 @@
     "bsmv": 2572.38,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 163
   },
   {
     "firma": "ULUSAL",
@@ -2951,7 +2096,8 @@
     "bsmv": 2405.46,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 164
   },
   {
     "firma": "ULUSAL",
@@ -2965,7 +2111,8 @@
     "bsmv": 1673.92,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 165
   },
   {
     "firma": "ULUSAL",
@@ -2979,7 +2126,8 @@
     "bsmv": 1320.83,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 166
   },
   {
     "firma": "ULUSAL",
@@ -2993,7 +2141,8 @@
     "bsmv": 922.96,
     "tutar": 229289.65,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 167
   },
   {
     "firma": "ULUSAL",
@@ -3007,7 +2156,8 @@
     "bsmv": 491.91,
     "tutar": 219951.39,
     "kredi_no": "1987",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 168
   },
   {
     "firma": "ABC",
@@ -3021,7 +2171,8 @@
     "bsmv": 908.79,
     "tutar": 192611.29,
     "kredi_no": "1000",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 169
   },
   {
     "firma": "ABC",
@@ -3035,7 +2186,8 @@
     "bsmv": 682.32,
     "tutar": 192610.71,
     "kredi_no": "1000",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 170
   },
   {
     "firma": "ABC",
@@ -3049,7 +2201,8 @@
     "bsmv": 347.75,
     "tutar": 192610.7,
     "kredi_no": "1000",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 171
   },
   {
     "firma": "ABC",
@@ -3063,7 +2216,8 @@
     "bsmv": 610.54,
     "tutar": 105471.89,
     "kredi_no": "1001",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 172
   },
   {
     "firma": "ABC",
@@ -3077,7 +2231,8 @@
     "bsmv": 477.87,
     "tutar": 105471.89,
     "kredi_no": "1001",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 173
   },
   {
     "firma": "ABC",
@@ -3091,6 +2246,7 @@
     "bsmv": 427.08,
     "tutar": 105471.89,
     "kredi_no": "1001",
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 174
   }
 ]
