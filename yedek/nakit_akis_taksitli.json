@@ -1,112 +1,21 @@
 [
   {
-    "id": "1775227876661",
+    "id": "1775230909421",
     "firma": "ULUSAL",
-    "banka": "GARANTİ BBVA",
-    "kredi_no": "001",
-    "tur": "TAKSİTLİ KREDİ",
-    "ana_para": 1000000,
-    "kullanim_tarihi": "01.03.2026",
-    "faiz_orani": 45,
-    "vade_ay": 10,
+    "banka": "HALKBANK",
+    "kredi_no": "LR001514",
+    "tur": "ROTATİF",
+    "ana_para": 12000000,
+    "kullanim_tarihi": "",
+    "faiz_orani": 53,
+    "vade_ay": 0,
     "bsmv_oran": 5,
     "aciklama": "",
-    "kullanim": 0,
-    "vade_bitis": "",
-    "yenileme_gun": 0,
+    "kullanim": 12000000,
+    "vade_bitis": "2026-11-25",
+    "yenileme_gun": 90,
     "komisyon_oran": 0,
-    "is_doner": false,
-    "taksitler": [
-      {
-        "no": 1,
-        "tarih": "01.04.2026",
-        "anapara": 82386.34,
-        "faiz": 37500,
-        "bsmv": 1875,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 2,
-        "tarih": "01.05.2026",
-        "anapara": 85630.3,
-        "faiz": 34410.51,
-        "bsmv": 1720.53,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 3,
-        "tarih": "01.06.2026",
-        "anapara": 89002,
-        "faiz": 31199.38,
-        "bsmv": 1559.97,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 4,
-        "tarih": "01.07.2026",
-        "anapara": 92506.45,
-        "faiz": 27861.8,
-        "bsmv": 1393.09,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 5,
-        "tarih": "01.08.2026",
-        "anapara": 96148.89,
-        "faiz": 24392.81,
-        "bsmv": 1219.64,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 6,
-        "tarih": "01.09.2026",
-        "anapara": 99934.76,
-        "faiz": 20787.23,
-        "bsmv": 1039.36,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 7,
-        "tarih": "01.10.2026",
-        "anapara": 103869.69,
-        "faiz": 17039.67,
-        "bsmv": 851.98,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 8,
-        "tarih": "01.11.2026",
-        "anapara": 107959.56,
-        "faiz": 13144.56,
-        "bsmv": 657.23,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 9,
-        "tarih": "01.12.2026",
-        "anapara": 112210.46,
-        "faiz": 9096.08,
-        "bsmv": 454.8,
-        "tutar": 121761.34,
-        "durum": "ÖDENMEDİ"
-      },
-      {
-        "no": 10,
-        "tarih": "01.01.2027",
-        "anapara": 130351.55,
-        "faiz": 4888.18,
-        "bsmv": 244.41,
-        "tutar": 135484.14,
-        "durum": "ÖDENMEDİ"
-      }
-    ]
+    "is_doner": true,
+    "taksitler": []
   }
 ]
