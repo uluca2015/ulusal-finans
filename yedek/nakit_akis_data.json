@@ -3688,5 +3688,19 @@
     "kredi_no": "1001",
     "aciklama": "",
     "_idx": 245
+  },
+  {
+    "firma": "ULUSAL",
+    "tur": "DİĞER",
+    "yer": "HALKBANK ",
+    "kredi_no": "LR001514",
+    "tarih": "30.06.2025",
+    "ay": "Haziran",
+    "durum": "ÖDENMEDİ",
+    "anapara": 12000000,
+    "faiz": 1590000,
+    "bsmv": 79500,
+    "tutar": 13669500,
+    "aciklama": ""
   }
 ]
