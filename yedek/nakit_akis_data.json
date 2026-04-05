@@ -3012,7 +3012,8 @@
     "tutar": 272706.14,
     "kredi_no": "246324480007",
     "aciklama": "",
-    "_idx": 200
+    "_idx": 200,
+    "odeme_tarihi": "05.04.2026"
   },
   {
     "firma": "ULUSAL",
@@ -3701,6 +3702,7 @@
     "faiz": 16665.38,
     "bsmv": 833.27,
     "tutar": 445273.11,
-    "aciklama": ""
+    "aciklama": "",
+    "_idx": 246
   }
 ]
