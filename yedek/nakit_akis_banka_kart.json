@@ -12,10 +12,7 @@
     "personel_mail": "",
     "notlar": "",
     "hesaplar": [],
-    "ipotekler": [
-      "1774362730396",
-      "1775401531701"
-    ],
+    "ipotekler": [],
     "limit_taksitli": 0,
     "kullanim_taksitli": 1400427.11,
     "faiz_taksitli": 0,
@@ -34,7 +31,7 @@
     "limit_diger": 0,
     "kullanim_diger": 0.0,
     "faiz_diger": 0,
-    "manuel_kullanim_taksitli": 0.0,
+    "manuel_kullanim_taksitli": 1400427.11,
     "manuel_kullanim_rotatif": 0.0,
     "manuel_kullanim_kmh": 0.0,
     "manuel_kullanim_kredi_karti": 1000.0,
