@@ -46,5 +46,41 @@
     "mime": "application/zip",
     "tarih": "2026-04-05 16:23",
     "ext": "zip"
+  },
+  {
+    "id": "2e0f635c",
+    "ad": "ipotek_sablon.xlsx",
+    "orijinal_ad": "ipotek_sablon.xlsx",
+    "dosya_adi": "2e0f635c.xlsx",
+    "kategori": "Genel",
+    "not": "",
+    "boyut": 15899,
+    "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "tarih": "2026-04-05 16:23",
+    "ext": "xlsx"
+  },
+  {
+    "id": "6c322739",
+    "ad": "app_v33.zip",
+    "orijinal_ad": "app_v33.zip",
+    "dosya_adi": "6c322739.zip",
+    "kategori": "Genel",
+    "not": "",
+    "boyut": 225648,
+    "mime": "application/zip",
+    "tarih": "2026-04-05 16:23",
+    "ext": "zip"
+  },
+  {
+    "id": "cff042be",
+    "ad": "app_v32.zip",
+    "orijinal_ad": "app_v32.zip",
+    "dosya_adi": "cff042be.zip",
+    "kategori": "Genel",
+    "not": "",
+    "boyut": 225648,
+    "mime": "application/zip",
+    "tarih": "2026-04-05 16:23",
+    "ext": "zip"
   }
 ]
