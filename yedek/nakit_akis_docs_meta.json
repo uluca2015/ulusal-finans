@@ -1,15 +1,15 @@
 [
   {
-    "id": "e6f949a5",
-    "ad": "2026 01 KONAKLAMA BEYANNAMESİ.pdf",
-    "orijinal_ad": "2026 01 KONAKLAMA BEYANNAMESİ.pdf",
-    "dosya_adi": "e6f949a5.pdf",
+    "id": "240c6dc3",
+    "ad": "app-36.py",
+    "orijinal_ad": "app-36.py",
+    "dosya_adi": "240c6dc3.py",
     "kategori": "Genel",
     "not": "",
-    "boyut": 107629,
-    "mime": "application/pdf",
-    "tarih": "2026-03-26 16:51",
-    "ext": "pdf"
+    "boyut": 1080215,
+    "mime": "text/x-python",
+    "tarih": "2026-04-05 16:23",
+    "ext": "py"
   },
   {
     "id": "f4fbad41",
@@ -24,75 +24,15 @@
     "ext": "zip"
   },
   {
-    "id": "0631708e",
-    "ad": "app_v35.zip",
-    "orijinal_ad": "app_v35.zip",
-    "dosya_adi": "0631708e.zip",
+    "id": "e6f949a5",
+    "ad": "2026 01 KONAKLAMA BEYANNAMESİ.pdf",
+    "orijinal_ad": "2026 01 KONAKLAMA BEYANNAMESİ.pdf",
+    "dosya_adi": "e6f949a5.pdf",
     "kategori": "Genel",
     "not": "",
-    "boyut": 227569,
-    "mime": "application/zip",
-    "tarih": "2026-04-05 16:23",
-    "ext": "zip"
-  },
-  {
-    "id": "2e0f635c",
-    "ad": "ipotek_sablon.xlsx",
-    "orijinal_ad": "ipotek_sablon.xlsx",
-    "dosya_adi": "2e0f635c.xlsx",
-    "kategori": "Genel",
-    "not": "",
-    "boyut": 15899,
-    "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-    "tarih": "2026-04-05 16:23",
-    "ext": "xlsx"
-  },
-  {
-    "id": "6c322739",
-    "ad": "app_v33.zip",
-    "orijinal_ad": "app_v33.zip",
-    "dosya_adi": "6c322739.zip",
-    "kategori": "Genel",
-    "not": "",
-    "boyut": 225648,
-    "mime": "application/zip",
-    "tarih": "2026-04-05 16:23",
-    "ext": "zip"
-  },
-  {
-    "id": "cff042be",
-    "ad": "app_v32.zip",
-    "orijinal_ad": "app_v32.zip",
-    "dosya_adi": "cff042be.zip",
-    "kategori": "Genel",
-    "not": "",
-    "boyut": 225648,
-    "mime": "application/zip",
-    "tarih": "2026-04-05 16:23",
-    "ext": "zip"
-  },
-  {
-    "id": "d959a48f",
-    "ad": "app_v31.zip",
-    "orijinal_ad": "app_v31.zip",
-    "dosya_adi": "d959a48f.zip",
-    "kategori": "Genel",
-    "not": "",
-    "boyut": 225507,
-    "mime": "application/zip",
-    "tarih": "2026-04-05 16:23",
-    "ext": "zip"
-  },
-  {
-    "id": "857c6ba2",
-    "ad": "app_v30.zip",
-    "orijinal_ad": "app_v30.zip",
-    "dosya_adi": "857c6ba2.zip",
-    "kategori": "Genel",
-    "not": "",
-    "boyut": 225413,
-    "mime": "application/zip",
-    "tarih": "2026-04-05 16:23",
-    "ext": "zip"
+    "boyut": 107629,
+    "mime": "application/pdf",
+    "tarih": "2026-03-26 16:51",
+    "ext": "pdf"
   }
 ]
