@@ -60,9 +60,7 @@
         "no": "86"
       }
     ],
-    "ipotekler": [
-      "1773738371357"
-    ],
+    "ipotekler": [],
     "limit_taksitli": 0,
     "kullanim_taksitli": 0,
     "faiz_taksitli": 0,
@@ -141,7 +139,6 @@
     "notlar": "",
     "hesaplar": [],
     "ipotekler": [
-      "1775331263115",
       "1775401531695",
       "1775401531696",
       "1775401531768",
