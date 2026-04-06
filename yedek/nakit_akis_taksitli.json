@@ -40,5 +40,27 @@
     "taksitler": [],
     "created_at": "06.04.2026 15:33:26",
     "updated_at": "06.04.2026 15:33:26"
+  },
+  {
+    "id": "kredi_1775493184639_6c0e3c72",
+    "firma": "ULUSAL",
+    "banka": "HALKBANK",
+    "kredi_no": "L0004753",
+    "tur": "ROTATİF",
+    "ana_para": 15000000,
+    "kullanim_tarihi": "",
+    "faiz_orani": 47.5,
+    "vade_ay": 0,
+    "bsmv_oran": 5,
+    "aciklama": "",
+    "kullanim": 1500000,
+    "vade_bitis": "2026-06-30",
+    "yenileme_gun": 0,
+    "yenileme_sikligi": 92,
+    "komisyon_oran": 0,
+    "is_doner": true,
+    "taksitler": [],
+    "created_at": "06.04.2026 16:33:04",
+    "updated_at": "06.04.2026 16:33:04"
   }
 ]
