@@ -67,10 +67,10 @@
       "1775401531778"
     ],
     "limit_taksitli": 0,
-    "kullanim_taksitli": 0,
+    "kullanim_taksitli": 449579.61,
     "faiz_taksitli": 0,
     "limit_rotatif": 12000000,
-    "kullanim_rotatif": 13508547.95,
+    "kullanim_rotatif": 12000000.0,
     "faiz_rotatif": 0.45,
     "limit_kmh": 0,
     "kullanim_kmh": 0.0,
