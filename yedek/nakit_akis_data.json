@@ -3705,19 +3705,5 @@
     "tutar": 449579.61,
     "aciklama": "",
     "_idx": 246
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "ROTATİF",
-    "yer": "HALKBANK",
-    "kredi_no": "LR001514",
-    "tarih": "30.06.2026",
-    "ay": "Haziran",
-    "durum": "ÖDENMEDİ",
-    "anapara": 0,
-    "faiz": 100000,
-    "bsmv": 50,
-    "tutar": 500,
-    "aciklama": ""
   }
 ]
