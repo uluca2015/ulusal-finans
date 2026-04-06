@@ -3742,7 +3742,8 @@
     "tutar": 628561.65,
     "aciklama": "ROTATİF faiz (92 gün)",
     "taksitli_id": "1775488463296",
-    "taksit_no": 1
+    "taksit_no": 1,
+    "_idx": 248
   },
   {
     "firma": "ULUSAL",
@@ -3759,7 +3760,8 @@
     "tutar": 5000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775488463296",
-    "taksit_no": 2
+    "taksit_no": 2,
+    "_idx": 249
   },
   {
     "firma": "ULUSAL",
@@ -3776,7 +3778,8 @@
     "tutar": 1005698.63,
     "aciklama": "ROTATİF faiz (92 gün)",
     "taksitli_id": "kredi_1775489606368_232f2097",
-    "taksit_no": 1
+    "taksit_no": 1,
+    "_idx": 250
   },
   {
     "firma": "ULUSAL",
@@ -3793,40 +3796,41 @@
     "tutar": 8000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775489606368_232f2097",
-    "taksit_no": 2
+    "taksit_no": 2,
+    "_idx": 251
   },
   {
-    "firma": "ABC",
+    "firma": "ULUSAL",
     "tur": "ROTATİF",
-    "yer": "VAKIFBANK",
-    "kredi_no": "1",
+    "yer": "HALKBANK",
+    "kredi_no": "L0004753",
     "tarih": "30.06.2026",
     "ay": "Haziran",
     "yil": "2026",
     "durum": "ÖDENMEDİ",
     "anapara": 0,
-    "faiz": 207819.18,
-    "bsmv": 10390.96,
-    "tutar": 218210.14,
+    "faiz": 179589.04,
+    "bsmv": 8979.45,
+    "tutar": 188568.49,
     "aciklama": "ROTATİF faiz (92 gün)",
-    "taksitli_id": "kredi_1775489708599_530054c6",
+    "taksitli_id": "kredi_1775493184639_6c0e3c72",
     "taksit_no": 1
   },
   {
-    "firma": "ABC",
+    "firma": "ULUSAL",
     "tur": "ROTATİF",
-    "yer": "VAKIFBANK",
-    "kredi_no": "1",
+    "yer": "HALKBANK",
+    "kredi_no": "L0004753",
     "tarih": "30.06.2026",
     "ay": "Haziran",
     "yil": "2026",
     "durum": "ÖDENMEDİ",
-    "anapara": 1700000.0,
+    "anapara": 1500000.0,
     "faiz": 0,
     "bsmv": 0,
-    "tutar": 1700000.0,
+    "tutar": 1500000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
-    "taksitli_id": "kredi_1775489708599_530054c6",
+    "taksitli_id": "kredi_1775493184639_6c0e3c72",
     "taksit_no": 2
   }
 ]
