@@ -60,7 +60,12 @@
         "no": "86"
       }
     ],
-    "ipotekler": [],
+    "ipotekler": [
+      "1775401531710",
+      "1775401531711",
+      "1775401531758",
+      "1775401531778"
+    ],
     "limit_taksitli": 0,
     "kullanim_taksitli": 0,
     "faiz_taksitli": 0,
