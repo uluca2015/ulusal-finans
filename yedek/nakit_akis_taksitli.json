@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "1775488463296",
+    "firma": "ULUSAL",
+    "banka": "HALKBANK",
+    "kredi_no": "LR001518",
+    "tur": "ROTATİF",
+    "ana_para": 5000000,
+    "kullanim_tarihi": "",
+    "faiz_orani": 47.5,
+    "vade_ay": 0,
+    "bsmv_oran": 5,
+    "aciklama": "",
+    "kullanim": 5000000,
+    "vade_bitis": "2026-06-30",
+    "yenileme_gun": 0,
+    "yenileme_sikligi": 92,
+    "komisyon_oran": 0,
+    "is_doner": true,
+    "taksitler": []
+  }
+]
