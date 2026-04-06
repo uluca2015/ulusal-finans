@@ -18,5 +18,27 @@
     "komisyon_oran": 0,
     "is_doner": true,
     "taksitler": []
+  },
+  {
+    "id": "kredi_1775489606368_232f2097",
+    "firma": "ULUSAL",
+    "banka": "HALKBANK",
+    "kredi_no": "LR001517",
+    "tur": "ROTATİF",
+    "ana_para": 8000000,
+    "kullanim_tarihi": "",
+    "faiz_orani": 47.5,
+    "vade_ay": 0,
+    "bsmv_oran": 5,
+    "aciklama": "",
+    "kullanim": 8000000,
+    "vade_bitis": "2026-06-30",
+    "yenileme_gun": 0,
+    "yenileme_sikligi": 92,
+    "komisyon_oran": 0,
+    "is_doner": true,
+    "taksitler": [],
+    "created_at": "06.04.2026 15:33:26",
+    "updated_at": "06.04.2026 15:33:26"
   }
 ]
