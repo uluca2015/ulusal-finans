@@ -3794,5 +3794,39 @@
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775489606368_232f2097",
     "taksit_no": 2
+  },
+  {
+    "firma": "ABC",
+    "tur": "ROTATİF",
+    "yer": "VAKIFBANK",
+    "kredi_no": "1",
+    "tarih": "30.06.2026",
+    "ay": "Haziran",
+    "yil": "2026",
+    "durum": "ÖDENMEDİ",
+    "anapara": 0,
+    "faiz": 207819.18,
+    "bsmv": 10390.96,
+    "tutar": 218210.14,
+    "aciklama": "ROTATİF faiz (92 gün)",
+    "taksitli_id": "kredi_1775489708599_530054c6",
+    "taksit_no": 1
+  },
+  {
+    "firma": "ABC",
+    "tur": "ROTATİF",
+    "yer": "VAKIFBANK",
+    "kredi_no": "1",
+    "tarih": "30.06.2026",
+    "ay": "Haziran",
+    "yil": "2026",
+    "durum": "ÖDENMEDİ",
+    "anapara": 1700000.0,
+    "faiz": 0,
+    "bsmv": 0,
+    "tutar": 1700000.0,
+    "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
+    "taksitli_id": "kredi_1775489708599_530054c6",
+    "taksit_no": 2
   }
 ]
