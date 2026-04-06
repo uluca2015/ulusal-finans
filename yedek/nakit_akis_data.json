@@ -3742,7 +3742,8 @@
     "tutar": 628561.65,
     "aciklama": "ROTATİF faiz (92 gün)",
     "taksitli_id": "1775488463296",
-    "taksit_no": 1
+    "taksit_no": 1,
+    "_idx": 248
   },
   {
     "firma": "ULUSAL",
@@ -3759,6 +3760,41 @@
     "tutar": 5000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775488463296",
+    "taksit_no": 2,
+    "_idx": 249
+  },
+  {
+    "firma": "ULUSAL",
+    "tur": "ROTATİF",
+    "yer": "HALKBANK",
+    "kredi_no": "LR001517",
+    "tarih": "30.06.2026",
+    "ay": "Haziran",
+    "yil": "2026",
+    "durum": "ÖDENMEDİ",
+    "anapara": 0,
+    "faiz": 957808.22,
+    "bsmv": 47890.41,
+    "tutar": 1005698.63,
+    "aciklama": "ROTATİF faiz (92 gün)",
+    "taksitli_id": "kredi_1775489606368_232f2097",
+    "taksit_no": 1
+  },
+  {
+    "firma": "ULUSAL",
+    "tur": "ROTATİF",
+    "yer": "HALKBANK",
+    "kredi_no": "LR001517",
+    "tarih": "30.06.2026",
+    "ay": "Haziran",
+    "yil": "2026",
+    "durum": "ÖDENMEDİ",
+    "anapara": 8000000.0,
+    "faiz": 0,
+    "bsmv": 0,
+    "tutar": 8000000.0,
+    "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
+    "taksitli_id": "kredi_1775489606368_232f2097",
     "taksit_no": 2
   }
 ]
