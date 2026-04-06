@@ -3693,20 +3693,6 @@
   },
   {
     "firma": "ULUSAL",
-    "tur": "TAKSİTLİ KREDİ",
-    "yer": "HALKBANK",
-    "kredi_no": "250616822853",
-    "tarih": "30.06.2026",
-    "ay": "Haziran",
-    "durum": "ÖDENMEDİ",
-    "anapara": 419134.98,
-    "faiz": 28994.89,
-    "bsmv": 1449.74,
-    "tutar": 449579.61,
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
     "tur": "ROTATİF",
     "yer": "HALKBANK",
     "kredi_no": "LR001514",
