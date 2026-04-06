@@ -3021,15 +3021,14 @@
     "yer": "YAPIKREDİ",
     "tarih": "10.04.2026",
     "ay": "Nisan",
-    "durum": "ÖDENDİ",
+    "durum": "ÖDENMEDİ",
     "anapara": 136688.56,
     "faiz": 129540.55,
     "bsmv": 6477.03,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
     "aciklama": "",
-    "_idx": 201,
-    "odeme_tarihi": "10.04.2026"
+    "_idx": 201
   },
   {
     "firma": "ULUSAL",
