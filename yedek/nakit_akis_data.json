@@ -3714,9 +3714,9 @@
     "tarih": "30.06.2026",
     "ay": "Haziran",
     "durum": "ÖDENMEDİ",
-    "anapara": 12000000,
-    "faiz": 45,
-    "bsmv": 5,
+    "anapara": 0,
+    "faiz": 100000,
+    "bsmv": 50,
     "tutar": 500,
     "aciklama": ""
   }
