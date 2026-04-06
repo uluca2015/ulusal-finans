@@ -3742,8 +3742,7 @@
     "tutar": 628561.65,
     "aciklama": "ROTATİF faiz (92 gün)",
     "taksitli_id": "1775488463296",
-    "taksit_no": 1,
-    "_idx": 248
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3760,8 +3759,7 @@
     "tutar": 5000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775488463296",
-    "taksit_no": 2,
-    "_idx": 249
+    "taksit_no": 2
   },
   {
     "firma": "ULUSAL",
