@@ -40,5 +40,27 @@
     "taksitler": [],
     "created_at": "06.04.2026 15:33:26",
     "updated_at": "06.04.2026 15:33:26"
+  },
+  {
+    "id": "kredi_1775489708599_530054c6",
+    "firma": "ABC",
+    "banka": "VAKIFBANK",
+    "kredi_no": "1",
+    "tur": "ROTATİF",
+    "ana_para": 1700000,
+    "kullanim_tarihi": "",
+    "faiz_orani": 48.5,
+    "vade_ay": 0,
+    "bsmv_oran": 5,
+    "aciklama": "",
+    "kullanim": 1700000,
+    "vade_bitis": "2026-06-30",
+    "yenileme_gun": 0,
+    "yenileme_sikligi": 92,
+    "komisyon_oran": 0,
+    "is_doner": true,
+    "taksitler": [],
+    "created_at": "06.04.2026 15:35:08",
+    "updated_at": "06.04.2026 15:35:08"
   }
 ]
