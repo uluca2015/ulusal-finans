@@ -3705,19 +3705,5 @@
     "tutar": 449579.61,
     "aciklama": "",
     "_idx": 246
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "ROTATİF",
-    "yer": "HALKBANK",
-    "kredi_no": "LR001514",
-    "tarih": "05.07.2026",
-    "ay": "Temmuz",
-    "durum": "ÖDENMEDİ",
-    "anapara": 0,
-    "faiz": 1331506.85,
-    "bsmv": 66575.34,
-    "tutar": 1398082.19,
-    "aciklama": "ROTATİF faiz (90 gün)"
   }
 ]
