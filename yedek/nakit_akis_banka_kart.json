@@ -76,7 +76,7 @@
     "kullanim_kmh": 0.0,
     "faiz_kmh": 0,
     "limit_kredi_karti": 5000000,
-    "kullanim_kredi_karti": 0.0,
+    "kullanim_kredi_karti": 2000000.0,
     "faiz_kredi_karti": 0.54,
     "limit_teminat": 0,
     "kullanim_teminat": 0.0,
@@ -87,7 +87,7 @@
     "manuel_kullanim_taksitli": 0.0,
     "manuel_kullanim_rotatif": 500.0,
     "manuel_kullanim_kmh": 0.0,
-    "manuel_kullanim_kredi_karti": 0.0,
+    "manuel_kullanim_kredi_karti": 2000000.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0
   },
