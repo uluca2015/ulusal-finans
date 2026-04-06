@@ -3690,23 +3690,5 @@
     "kredi_no": "1001",
     "aciklama": "",
     "_idx": 245
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "ROTATİF",
-    "yer": "HALKBANK",
-    "kredi_no": "LR001514",
-    "tarih": "30.06.2026",
-    "ay": "Haziran",
-    "yil": "2026",
-    "durum": "ÖDENMEDİ",
-    "anapara": 12000000.0,
-    "faiz": 0,
-    "bsmv": 0,
-    "tutar": 12000000.0,
-    "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
-    "taksitli_id": "1775484418006",
-    "taksit_no": 2,
-    "_idx": 248
   }
 ]
