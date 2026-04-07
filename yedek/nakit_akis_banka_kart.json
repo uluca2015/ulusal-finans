@@ -37,8 +37,8 @@
     "manuel_kullanim_kredi_karti": 1000.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
-    "kesim_gun": 30,
-    "odeme_gun": 4
+    "kesim_gun": "30",
+    "odeme_gun": "4"
   },
   {
     "id": "1774362312406",
@@ -92,8 +92,8 @@
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
-    "kesim_gun": 10,
-    "odeme_gun": 25
+    "kesim_gun": "2, 10",
+    "odeme_gun": "7, 25"
   },
   {
     "id": "1775141151376",
