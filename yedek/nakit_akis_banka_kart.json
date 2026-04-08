@@ -202,7 +202,7 @@
     "limit_kmh": 0,
     "kullanim_kmh": 0.0,
     "faiz_kmh": 0,
-    "limit_kredi_karti": 0,
+    "limit_kredi_karti": 4000000.0,
     "kullanim_kredi_karti": 0.0,
     "faiz_kredi_karti": 0,
     "limit_teminat": 0,
@@ -216,7 +216,9 @@
     "manuel_kullanim_kmh": 0.0,
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
-    "manuel_kullanim_diger": 0.0
+    "manuel_kullanim_diger": 0.0,
+    "kesim_gun": "31",
+    "odeme_gun": "5"
   },
   {
     "id": "1775144333388",
@@ -241,7 +243,7 @@
     "limit_kmh": 0,
     "kullanim_kmh": 0.0,
     "faiz_kmh": 0,
-    "limit_kredi_karti": 0,
+    "limit_kredi_karti": 8500000.0,
     "kullanim_kredi_karti": 0.0,
     "faiz_kredi_karti": 0,
     "limit_teminat": 0,
@@ -255,7 +257,9 @@
     "manuel_kullanim_kmh": 0.0,
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
-    "manuel_kullanim_diger": 0.0
+    "manuel_kullanim_diger": 0.0,
+    "kesim_gun": "26",
+    "odeme_gun": "30"
   },
   {
     "id": "1775489670717",
