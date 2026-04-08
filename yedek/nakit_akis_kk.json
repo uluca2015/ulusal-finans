@@ -201,5 +201,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775661377891",
+    "banka": "AKBANK",
+    "firma": "ULUSAL",
+    "kart_no": "1550",
+    "limit": 10000000,
+    "kesim_gun": 11,
+    "odeme_gun": 16,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
