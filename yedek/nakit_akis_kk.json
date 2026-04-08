@@ -81,5 +81,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775660517274",
+    "banka": "HALKBANK",
+    "firma": "ABC",
+    "kart_no": "",
+    "limit": 4000000,
+    "kesim_gun": 2,
+    "odeme_gun": 7,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
