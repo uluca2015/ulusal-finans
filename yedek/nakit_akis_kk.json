@@ -69,5 +69,17 @@
     "gecikme_faiz": 54.6,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775660403361",
+    "banka": "QNB FİNANSBANK",
+    "firma": "ABC",
+    "kart_no": "",
+    "limit": 1000000,
+    "kesim_gun": 28,
+    "odeme_gun": 2,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
