@@ -189,5 +189,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775661327904",
+    "banka": "VAKIF KATILIM",
+    "firma": "ULUSAL",
+    "kart_no": "7858",
+    "limit": 2000000,
+    "kesim_gun": 7,
+    "odeme_gun": 17,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
