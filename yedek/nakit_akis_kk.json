@@ -57,5 +57,17 @@
     "gecikme_faiz": 0,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775637602469",
+    "banka": "VAKIFBANK",
+    "firma": "ULUSAL",
+    "kart_no": "",
+    "limit": 2700000,
+    "kesim_gun": null,
+    "odeme_gun": null,
+    "gecikme_faiz": 54.6,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
