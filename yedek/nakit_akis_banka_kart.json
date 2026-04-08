@@ -280,7 +280,7 @@
     "limit_kmh": 0,
     "kullanim_kmh": 0.0,
     "faiz_kmh": 0,
-    "limit_kredi_karti": 0,
+    "limit_kredi_karti": 2700000.0,
     "kullanim_kredi_karti": 0.0,
     "faiz_kredi_karti": 0,
     "limit_teminat": 0,
