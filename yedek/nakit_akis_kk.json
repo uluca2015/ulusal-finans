@@ -147,7 +147,18 @@
     "odeme_gun": 13,
     "gecikme_faiz": 55,
     "notlar": "",
-    "harcamalar": []
+    "harcamalar": [
+      {
+        "id": "1775667600756",
+        "tarih": "2026-04-08",
+        "firma": "BAŞLANGIÇ",
+        "tutar": 485000,
+        "tur": "harcama",
+        "odendi": false,
+        "kategori": "Diğer",
+        "aciklama": "08.04.2026 K.K. LİSTESİ"
+      }
+    ]
   },
   {
     "id": "1775660634989",
