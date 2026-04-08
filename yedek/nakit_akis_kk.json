@@ -225,5 +225,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775666060033",
+    "banka": "QNB FİNANSBANK",
+    "firma": "ULUSAL",
+    "kart_no": "4744",
+    "limit": 2500000,
+    "kesim_gun": 9,
+    "odeme_gun": 14,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
