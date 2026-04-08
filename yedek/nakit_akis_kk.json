@@ -193,7 +193,18 @@
     "odeme_gun": 30,
     "gecikme_faiz": 55,
     "notlar": "",
-    "harcamalar": []
+    "harcamalar": [
+      {
+        "id": "1775667675227",
+        "tarih": "2026-04-08",
+        "firma": "BAŞLANGIÇ",
+        "tutar": 53202,
+        "tur": "harcama",
+        "odendi": false,
+        "kategori": "Diğer",
+        "aciklama": "08.04.2026 K.K. LİSTESİ"
+      }
+    ]
   },
   {
     "id": "1775660802720",
@@ -205,7 +216,18 @@
     "odeme_gun": 30,
     "gecikme_faiz": 55,
     "notlar": "",
-    "harcamalar": []
+    "harcamalar": [
+      {
+        "id": "1775667710019",
+        "tarih": "2026-04-08",
+        "firma": "BAŞLANGIÇ",
+        "tutar": 3300000,
+        "tur": "harcama",
+        "odendi": false,
+        "kategori": "Diğer",
+        "aciklama": "08.04.2026 K.K. LİSTESİ"
+      }
+    ]
   },
   {
     "id": "1775660887263",
