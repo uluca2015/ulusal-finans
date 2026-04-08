@@ -105,5 +105,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775660634989",
+    "banka": "ZİRAAT BANKASI",
+    "firma": "ABC",
+    "kart_no": "0399",
+    "limit": 5000000,
+    "kesim_gun": 14,
+    "odeme_gun": 26,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
