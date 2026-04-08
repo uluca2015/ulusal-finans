@@ -93,5 +93,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775660571530",
+    "banka": "VAKIFBANK",
+    "firma": "ABC",
+    "kart_no": "0082",
+    "limit": 1125000,
+    "kesim_gun": 8,
+    "odeme_gun": 13,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
