@@ -129,5 +129,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775660802720",
+    "banka": "YAPIKREDİ",
+    "firma": "ULUSAL",
+    "kart_no": "9421",
+    "limit": 8500000,
+    "kesim_gun": 26,
+    "odeme_gun": 30,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
