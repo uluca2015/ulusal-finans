@@ -177,5 +177,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775661281547",
+    "banka": "ZİRAAT BANKASI",
+    "firma": "ULUSAL",
+    "kart_no": "3020",
+    "limit": 12000000,
+    "kesim_gun": 7,
+    "odeme_gun": 17,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
