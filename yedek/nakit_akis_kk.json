@@ -153,5 +153,17 @@
     "gecikme_faiz": 0,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775661097630",
+    "banka": "TEB",
+    "firma": "ULUSAL",
+    "kart_no": "",
+    "limit": 2647000,
+    "kesim_gun": 31,
+    "odeme_gun": 5,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
