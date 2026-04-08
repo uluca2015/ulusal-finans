@@ -141,5 +141,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775660887263",
+    "banka": "İŞ BANKASI",
+    "firma": "ULUSAL",
+    "kart_no": "3900",
+    "limit": 4000000,
+    "kesim_gun": 31,
+    "odeme_gun": 5,
+    "gecikme_faiz": 0,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
