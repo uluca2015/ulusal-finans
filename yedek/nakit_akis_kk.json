@@ -117,5 +117,17 @@
     "gecikme_faiz": 55,
     "notlar": "",
     "harcamalar": []
+  },
+  {
+    "id": "1775660719672",
+    "banka": "ŞEKERBANK",
+    "firma": "ULUSAL",
+    "kart_no": "",
+    "limit": 400000,
+    "kesim_gun": 25,
+    "odeme_gun": 30,
+    "gecikme_faiz": 55,
+    "notlar": "",
+    "harcamalar": []
   }
 ]
