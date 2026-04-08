@@ -118,7 +118,7 @@
     "limit_kmh": 0,
     "kullanim_kmh": 0.0,
     "faiz_kmh": 0,
-    "limit_kredi_karti": 0,
+    "limit_kredi_karti": 2000000.0,
     "kullanim_kredi_karti": 0.0,
     "faiz_kredi_karti": 0,
     "limit_teminat": 0,
@@ -132,7 +132,9 @@
     "manuel_kullanim_kmh": 0.0,
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
-    "manuel_kullanim_diger": 0.0
+    "manuel_kullanim_diger": 0.0,
+    "kesim_gun": "7",
+    "odeme_gun": "17"
   },
   {
     "id": "1775144041986",
@@ -299,8 +301,8 @@
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
-    "kesim_gun": "8",
-    "odeme_gun": "13"
+    "kesim_gun": "3, 8",
+    "odeme_gun": "8, 13"
   },
   {
     "id": "1775660351897",
@@ -381,8 +383,8 @@
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
-    "kesim_gun": "14",
-    "odeme_gun": "26"
+    "kesim_gun": "14, 7",
+    "odeme_gun": "26, 17"
   },
   {
     "id": "1775660684593",
@@ -440,28 +442,30 @@
     "hesaplar": [],
     "ipotekler": [],
     "limit_taksitli": 0,
-    "kullanim_taksitli": 0,
+    "kullanim_taksitli": 670900.79,
     "faiz_taksitli": 0,
     "limit_rotatif": 0,
-    "kullanim_rotatif": 0,
+    "kullanim_rotatif": 0.0,
     "faiz_rotatif": 0,
     "limit_kmh": 0,
-    "kullanim_kmh": 0,
+    "kullanim_kmh": 0.0,
     "faiz_kmh": 0,
-    "limit_kredi_karti": 0,
-    "kullanim_kredi_karti": 0,
+    "limit_kredi_karti": 2647000.0,
+    "kullanim_kredi_karti": 0.0,
     "faiz_kredi_karti": 0,
     "limit_teminat": 0,
-    "kullanim_teminat": 0,
+    "kullanim_teminat": 0.0,
     "faiz_teminat": 0,
     "limit_diger": 0,
-    "kullanim_diger": 0,
+    "kullanim_diger": 0.0,
     "faiz_diger": 0,
     "manuel_kullanim_taksitli": 0.0,
     "manuel_kullanim_rotatif": 0.0,
     "manuel_kullanim_kmh": 0.0,
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
-    "manuel_kullanim_diger": 0.0
+    "manuel_kullanim_diger": 0.0,
+    "kesim_gun": "31",
+    "odeme_gun": "5"
   }
 ]
