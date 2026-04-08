@@ -23,7 +23,7 @@
     "kullanim_kmh": 0.0,
     "faiz_kmh": 0,
     "limit_kredi_karti": 400000,
-    "kullanim_kredi_karti": 1000.0,
+    "kullanim_kredi_karti": 369679.0,
     "faiz_kredi_karti": 0,
     "limit_teminat": 0,
     "kullanim_teminat": 0.0,
@@ -34,7 +34,7 @@
     "manuel_kullanim_taksitli": 1400427.11,
     "manuel_kullanim_rotatif": 0.0,
     "manuel_kullanim_kmh": 0.0,
-    "manuel_kullanim_kredi_karti": 1000.0,
+    "manuel_kullanim_kredi_karti": 369679.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "30",
@@ -92,8 +92,8 @@
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
-    "kesim_gun": "2, 10",
-    "odeme_gun": "7, 25"
+    "kesim_gun": "2, 17",
+    "odeme_gun": "9, 22, 7"
   },
   {
     "id": "1775141151376",
@@ -344,8 +344,8 @@
     "manuel_kullanim_kredi_karti": 0.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
-    "kesim_gun": "28",
-    "odeme_gun": "2"
+    "kesim_gun": "28, 13, 9",
+    "odeme_gun": "2, 19, 14"
   },
   {
     "id": "1775660599349",
