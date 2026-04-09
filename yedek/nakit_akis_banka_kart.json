@@ -76,7 +76,7 @@
     "kullanim_rotatif": 14500000.0,
     "faiz_rotatif": 0.45,
     "limit_kmh": 0,
-    "kullanim_kmh": 0.0,
+    "kullanim_kmh": 0,
     "faiz_kmh": 0,
     "limit_kredi_karti": 5000000,
     "kullanim_kredi_karti": 4759095.0,
@@ -88,13 +88,11 @@
     "kullanim_diger": 0.0,
     "faiz_diger": 0,
     "manuel_kullanim_taksitli": 0.0,
-    "manuel_kullanim_rotatif": 500.0,
+    "manuel_kullanim_rotatif": 14500000.0,
     "manuel_kullanim_kmh": 0.0,
     "manuel_kullanim_kredi_karti": 4759095.0,
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
-    "kesim_gun": "2, 17",
-    "odeme_gun": "9, 22, 7",
     "tur_adet_detay": {
       "rotatif": {
         "adet": 3,
@@ -106,7 +104,9 @@
           "L0004753"
         ]
       }
-    }
+    },
+    "kesim_gun": "2, 17",
+    "odeme_gun": "9, 22, 7"
   },
   {
     "id": "1775141151376",
