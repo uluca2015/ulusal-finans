@@ -3737,13 +3737,12 @@
     "yil": "2026",
     "durum": "ÖDENMEDİ",
     "anapara": 0,
-    "faiz": 533561.64,
-    "bsmv": 26678.08,
-    "tutar": 560239.72,
-    "aciklama": "ROTATİF faiz (82 gün)",
+    "faiz": 527054.79,
+    "bsmv": 26352.74,
+    "tutar": 553407.53,
+    "aciklama": "ROTATİF faiz (81 gün)",
     "taksitli_id": "1775488463296",
-    "taksit_no": 1,
-    "_idx": 248
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3760,8 +3759,7 @@
     "tutar": 5000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775488463296",
-    "taksit_no": 2,
-    "_idx": 249
+    "taksit_no": 2
   },
   {
     "firma": "ULUSAL",
@@ -3773,13 +3771,12 @@
     "yil": "2026",
     "durum": "ÖDENMEDİ",
     "anapara": 0,
-    "faiz": 853698.63,
-    "bsmv": 42684.93,
-    "tutar": 896383.56,
-    "aciklama": "ROTATİF faiz (82 gün)",
+    "faiz": 843287.67,
+    "bsmv": 42164.38,
+    "tutar": 885452.05,
+    "aciklama": "ROTATİF faiz (81 gün)",
     "taksitli_id": "kredi_1775489606368_232f2097",
-    "taksit_no": 1,
-    "_idx": 250
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3796,8 +3793,7 @@
     "tutar": 8000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775489606368_232f2097",
-    "taksit_no": 2,
-    "_idx": 251
+    "taksit_no": 2
   },
   {
     "firma": "ULUSAL",
@@ -3809,13 +3805,12 @@
     "yil": "2026",
     "durum": "ÖDENMEDİ",
     "anapara": 0,
-    "faiz": 160068.49,
-    "bsmv": 8003.42,
-    "tutar": 168071.91,
-    "aciklama": "ROTATİF faiz (82 gün)",
+    "faiz": 158116.44,
+    "bsmv": 7905.82,
+    "tutar": 166022.26,
+    "aciklama": "ROTATİF faiz (81 gün)",
     "taksitli_id": "kredi_1775493184639_6c0e3c72",
-    "taksit_no": 1,
-    "_idx": 252
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3832,7 +3827,6 @@
     "tutar": 1500000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775493184639_6c0e3c72",
-    "taksit_no": 2,
-    "_idx": 253
+    "taksit_no": 2
   }
 ]
