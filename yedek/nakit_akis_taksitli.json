@@ -80,5 +80,25 @@
     "komisyon_oran": 0,
     "is_doner": true,
     "taksitler": []
+  },
+  {
+    "id": "1775735982159",
+    "firma": "ULUSAL",
+    "banka": "HALKBANK",
+    "kredi_no": "KMH-001",
+    "tur": "KMH",
+    "ana_para": 2000000,
+    "kullanim_tarihi": "",
+    "faiz_orani": 47.5,
+    "vade_ay": 0,
+    "bsmv_oran": 5,
+    "aciklama": "",
+    "kullanim": 2000000,
+    "vade_bitis": "2026-04-30",
+    "yenileme_gun": 30,
+    "yenileme_sikligi": 30,
+    "komisyon_oran": 0,
+    "is_doner": true,
+    "taksitler": []
   }
 ]
