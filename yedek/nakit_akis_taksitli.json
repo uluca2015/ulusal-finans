@@ -47,7 +47,7 @@
     "banka": "HALKBANK",
     "kredi_no": "L0004753",
     "tur": "ROTATİF",
-    "ana_para": 15000000,
+    "ana_para": 1500000,
     "kullanim_tarihi": "",
     "faiz_orani": 47.5,
     "vade_ay": 0,
@@ -56,11 +56,9 @@
     "kullanim": 1500000,
     "vade_bitis": "2026-06-30",
     "yenileme_gun": 0,
-    "yenileme_sikligi": 92,
+    "yenileme_sikligi": 90,
     "komisyon_oran": 0,
     "is_doner": true,
-    "taksitler": [],
-    "created_at": "06.04.2026 16:33:04",
-    "updated_at": "06.04.2026 16:33:04"
+    "taksitler": []
   }
 ]
