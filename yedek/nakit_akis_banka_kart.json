@@ -38,7 +38,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "30",
-    "odeme_gun": "4"
+    "odeme_gun": "4",
+    "tur_adet_detay": {}
   },
   {
     "id": "1774362312406",
@@ -93,7 +94,19 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "2, 17",
-    "odeme_gun": "9, 22, 7"
+    "odeme_gun": "9, 22, 7",
+    "tur_adet_detay": {
+      "rotatif": {
+        "adet": 3,
+        "limit": 28000000.0,
+        "kullanim": 14500000.0,
+        "nolar": [
+          "LR001518",
+          "LR001517",
+          "L0004753"
+        ]
+      }
+    }
   },
   {
     "id": "1775141151376",
@@ -134,7 +147,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "7",
-    "odeme_gun": "17"
+    "odeme_gun": "17",
+    "tur_adet_detay": {}
   },
   {
     "id": "1775144041986",
@@ -181,7 +195,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "11",
-    "odeme_gun": "16"
+    "odeme_gun": "16",
+    "tur_adet_detay": {}
   },
   {
     "id": "1775144225575",
@@ -222,7 +237,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "31",
-    "odeme_gun": "5"
+    "odeme_gun": "5",
+    "tur_adet_detay": {}
   },
   {
     "id": "1775144333388",
@@ -263,7 +279,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "26",
-    "odeme_gun": "30"
+    "odeme_gun": "30",
+    "tur_adet_detay": {}
   },
   {
     "id": "1775489670717",
@@ -304,7 +321,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "3, 8",
-    "odeme_gun": "8, 13"
+    "odeme_gun": "8, 13",
+    "tur_adet_detay": {}
   },
   {
     "id": "1775660351897",
@@ -345,7 +363,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "28, 13, 9",
-    "odeme_gun": "2, 19, 14"
+    "odeme_gun": "2, 19, 14",
+    "tur_adet_detay": {}
   },
   {
     "id": "1775660599349",
@@ -386,7 +405,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "14, 7",
-    "odeme_gun": "26, 17"
+    "odeme_gun": "26, 17",
+    "tur_adet_detay": {}
   },
   {
     "id": "1775660684593",
@@ -427,7 +447,8 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "25",
-    "odeme_gun": "30"
+    "odeme_gun": "30",
+    "tur_adet_detay": {}
   },
   {
     "id": "1775661067394",
@@ -468,6 +489,7 @@
     "manuel_kullanim_teminat": 0.0,
     "manuel_kullanim_diger": 0.0,
     "kesim_gun": "31",
-    "odeme_gun": "5"
+    "odeme_gun": "5",
+    "tur_adet_detay": {}
   }
 ]
