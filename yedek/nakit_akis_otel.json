@@ -1,4 +1,19 @@
 {
   "otel1": [],
-  "otel2": []
+  "otel2": [
+    {
+      "rezervasyon_no": "",
+      "misafir_adi": "deneme",
+      "giris_tarihi": "2026-04-10",
+      "cikis_tarihi": "2026-04-11",
+      "oda": "101",
+      "kanal": "Direkt",
+      "tutar": 5000,
+      "durum": "Rezerve",
+      "telefon": "",
+      "aciklama": "",
+      "id": 1775816058857,
+      "created_at": "10.04.2026 10:14"
+    }
+  ]
 }
