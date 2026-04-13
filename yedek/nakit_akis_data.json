@@ -3021,14 +3021,15 @@
     "yer": "YAPIKREDİ",
     "tarih": "10.04.2026",
     "ay": "Nisan",
-    "durum": "ÖDENMEDİ",
+    "durum": "ÖDENDİ",
     "anapara": 136688.56,
     "faiz": 129540.55,
     "bsmv": 6477.03,
     "tutar": 272706.14,
     "kredi_no": "246324480007",
     "aciklama": "",
-    "_idx": 201
+    "_idx": 201,
+    "odeme_tarihi": "10.04.2026"
   },
   {
     "firma": "ULUSAL",
@@ -3562,14 +3563,15 @@
     "yer": "YAPIKREDİ",
     "tarih": "10.04.2026",
     "ay": "Nisan",
-    "durum": "ÖDENMEDİ",
+    "durum": "ÖDENDİ",
     "anapara": 201552.18,
     "faiz": 26416.64,
     "bsmv": 1320.83,
     "tutar": 229289.65,
     "kredi_no": "1987",
     "aciklama": "",
-    "_idx": 237
+    "_idx": 237,
+    "odeme_tarihi": "10.04.2026"
   },
   {
     "firma": "ULUSAL",
@@ -3622,14 +3624,15 @@
     "yer": "VAKIF KATILIM",
     "tarih": "10.04.2026",
     "ay": "Nisan",
-    "durum": "ÖDENMEDİ",
+    "durum": "ÖDENDİ",
     "anapara": 178281.98,
     "faiz": 13646.41,
     "bsmv": 682.32,
     "tutar": 192610.71,
     "kredi_no": "1000",
     "aciklama": "",
-    "_idx": 241
+    "_idx": 241,
+    "odeme_tarihi": "10.04.2026"
   },
   {
     "firma": "ABC",
@@ -3706,7 +3709,8 @@
     "tutar": 526078.77,
     "aciklama": "ROTATİF faiz (77 gün)",
     "taksitli_id": "1775488463296",
-    "taksit_no": 1
+    "taksit_no": 1,
+    "_idx": 246
   },
   {
     "firma": "ULUSAL",
@@ -3723,7 +3727,8 @@
     "tutar": 5000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775488463296",
-    "taksit_no": 2
+    "taksit_no": 2,
+    "_idx": 247
   },
   {
     "firma": "ULUSAL",
@@ -3740,7 +3745,8 @@
     "tutar": 841726.03,
     "aciklama": "ROTATİF faiz (77 gün)",
     "taksitli_id": "kredi_1775489606368_232f2097",
-    "taksit_no": 1
+    "taksit_no": 1,
+    "_idx": 248
   },
   {
     "firma": "ULUSAL",
@@ -3757,7 +3763,8 @@
     "tutar": 8000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775489606368_232f2097",
-    "taksit_no": 2
+    "taksit_no": 2,
+    "_idx": 249
   },
   {
     "firma": "ULUSAL",
@@ -3774,7 +3781,8 @@
     "tutar": 157823.63,
     "aciklama": "ROTATİF faiz (77 gün)",
     "taksitli_id": "kredi_1775493184639_6c0e3c72",
-    "taksit_no": 1
+    "taksit_no": 1,
+    "_idx": 250
   },
   {
     "firma": "ULUSAL",
@@ -3791,7 +3799,8 @@
     "tutar": 1500000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775493184639_6c0e3c72",
-    "taksit_no": 2
+    "taksit_no": 2,
+    "_idx": 251
   },
   {
     "firma": "ULUSAL",
@@ -3808,7 +3817,8 @@
     "tutar": 1262589.04,
     "aciklama": "ROTATİF faiz (77 gün)",
     "taksitli_id": "1775735775780",
-    "taksit_no": 1
+    "taksit_no": 1,
+    "_idx": 252
   },
   {
     "firma": "ULUSAL",
@@ -3825,7 +3835,8 @@
     "tutar": 12000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775735775780",
-    "taksit_no": 2
+    "taksit_no": 2,
+    "_idx": 253
   },
   {
     "firma": "ULUSAL",
@@ -3842,7 +3853,8 @@
     "tutar": 54657.53,
     "aciklama": "KMH faiz (16 gün)",
     "taksitli_id": "1775735982159",
-    "taksit_no": 1
+    "taksit_no": 1,
+    "_idx": 254
   },
   {
     "firma": "ULUSAL",
@@ -3859,6 +3871,7 @@
     "tutar": 2500000.0,
     "aciklama": "KMH anapara geri ödemesi",
     "taksitli_id": "1775735982159",
-    "taksit_no": 2
+    "taksit_no": 2,
+    "_idx": 255
   }
 ]
