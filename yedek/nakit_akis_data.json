@@ -3710,8 +3710,7 @@
     "tutar": 526078.77,
     "aciklama": "ROTATİF faiz (77 gün)",
     "taksitli_id": "1775488463296",
-    "taksit_no": 1,
-    "_idx": 246
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3728,8 +3727,7 @@
     "tutar": 5000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775488463296",
-    "taksit_no": 2,
-    "_idx": 247
+    "taksit_no": 2
   },
   {
     "firma": "ULUSAL",
@@ -3746,8 +3744,7 @@
     "tutar": 841726.03,
     "aciklama": "ROTATİF faiz (77 gün)",
     "taksitli_id": "kredi_1775489606368_232f2097",
-    "taksit_no": 1,
-    "_idx": 248
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3764,8 +3761,7 @@
     "tutar": 8000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775489606368_232f2097",
-    "taksit_no": 2,
-    "_idx": 249
+    "taksit_no": 2
   },
   {
     "firma": "ULUSAL",
@@ -3782,8 +3778,7 @@
     "tutar": 157823.63,
     "aciklama": "ROTATİF faiz (77 gün)",
     "taksitli_id": "kredi_1775493184639_6c0e3c72",
-    "taksit_no": 1,
-    "_idx": 250
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3800,8 +3795,7 @@
     "tutar": 1500000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775493184639_6c0e3c72",
-    "taksit_no": 2,
-    "_idx": 251
+    "taksit_no": 2
   },
   {
     "firma": "ULUSAL",
@@ -3818,8 +3812,7 @@
     "tutar": 1262589.04,
     "aciklama": "ROTATİF faiz (77 gün)",
     "taksitli_id": "1775735775780",
-    "taksit_no": 1,
-    "_idx": 252
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3836,8 +3829,7 @@
     "tutar": 12000000.0,
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775735775780",
-    "taksit_no": 2,
-    "_idx": 253
+    "taksit_no": 2
   },
   {
     "firma": "ULUSAL",
@@ -3854,8 +3846,7 @@
     "tutar": 54657.53,
     "aciklama": "KMH faiz (16 gün)",
     "taksitli_id": "1775735982159",
-    "taksit_no": 1,
-    "_idx": 254
+    "taksit_no": 1
   },
   {
     "firma": "ULUSAL",
@@ -3872,7 +3863,6 @@
     "tutar": 2500000.0,
     "aciklama": "KMH anapara geri ödemesi",
     "taksitli_id": "1775735982159",
-    "taksit_no": 2,
-    "_idx": 255
+    "taksit_no": 2
   }
 ]
