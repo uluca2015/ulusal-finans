@@ -42,26 +42,6 @@
         "odendi": false,
         "kategori": "Diğer",
         "aciklama": "08.04.2026 K.K. LİSTESİ"
-      },
-      {
-        "id": "1776093823349",
-        "tarih": "2026-04-13",
-        "firma": "banka",
-        "tutar": 4000000,
-        "tur": "odeme",
-        "odendi": true,
-        "kategori": "Kart Ödemesi",
-        "aciklama": "ödeme"
-      },
-      {
-        "id": "1776093866353",
-        "tarih": "2026-04-13",
-        "firma": "banka",
-        "tutar": 4000000,
-        "tur": "odeme",
-        "odendi": true,
-        "kategori": "Kart Ödemesi",
-        "aciklama": "ödeme"
       }
     ]
   },
