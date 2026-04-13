@@ -19,6 +19,16 @@
         "odendi": false,
         "kategori": "Diğer",
         "aciklama": "08.04.2026 K.K. LİSTESİ"
+      },
+      {
+        "id": "1776093970957",
+        "tarih": "2026-04-13",
+        "firma": "GARANTİ BBV",
+        "tutar": 1000000,
+        "tur": "odeme",
+        "odendi": true,
+        "kategori": "Kart Ödemesi",
+        "aciklama": "ÖDEME"
       }
     ]
   },
