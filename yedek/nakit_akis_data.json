@@ -3885,10 +3885,10 @@
     "tarih": "30.04.2026",
     "ay": "Nisan",
     "durum": "ÖDENMEDİ",
-    "anapara": 1000000,
+    "anapara": 0,
     "faiz": 0,
     "bsmv": 0,
-    "tutar": 200000000,
+    "tutar": 1000000,
     "aciklama": ""
   }
 ]
