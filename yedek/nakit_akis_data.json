@@ -3866,5 +3866,19 @@
     "aciklama": "KMH anapara geri ödemesi",
     "taksitli_id": "1775735982159",
     "taksit_no": 2
+  },
+  {
+    "firma": "ULUSAL",
+    "tur": "MAAŞ",
+    "yer": "",
+    "kredi_no": "",
+    "tarih": "30.04.2026",
+    "ay": "Nisan",
+    "durum": "ÖDENMEDİ",
+    "anapara": 2000000,
+    "faiz": 0,
+    "bsmv": 0,
+    "tutar": 200000000,
+    "aciklama": ""
   }
 ]
