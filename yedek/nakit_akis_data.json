@@ -3699,6 +3699,20 @@
   },
   {
     "firma": "ULUSAL",
+    "tur": "MAAŞ",
+    "yer": "",
+    "kredi_no": "",
+    "tarih": "30.04.2026",
+    "ay": "Nisan",
+    "durum": "ÖDENMEDİ",
+    "anapara": 0,
+    "faiz": 0,
+    "bsmv": 0,
+    "tutar": 1000000,
+    "aciklama": ""
+  },
+  {
+    "firma": "ULUSAL",
     "tur": "ROTATİF",
     "yer": "HALKBANK",
     "kredi_no": "LR001518",
@@ -3713,7 +3727,7 @@
     "aciklama": "ROTATİF faiz (73 gün)",
     "taksitli_id": "1775488463296",
     "taksit_no": 1,
-    "_idx": 246
+    "_idx": 247
   },
   {
     "firma": "ULUSAL",
@@ -3731,7 +3745,7 @@
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775488463296",
     "taksit_no": 2,
-    "_idx": 247
+    "_idx": 248
   },
   {
     "firma": "ULUSAL",
@@ -3749,7 +3763,7 @@
     "aciklama": "ROTATİF faiz (73 gün)",
     "taksitli_id": "kredi_1775489606368_232f2097",
     "taksit_no": 1,
-    "_idx": 248
+    "_idx": 249
   },
   {
     "firma": "ULUSAL",
@@ -3767,7 +3781,7 @@
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775489606368_232f2097",
     "taksit_no": 2,
-    "_idx": 249
+    "_idx": 250
   },
   {
     "firma": "ULUSAL",
@@ -3785,7 +3799,7 @@
     "aciklama": "ROTATİF faiz (73 gün)",
     "taksitli_id": "kredi_1775493184639_6c0e3c72",
     "taksit_no": 1,
-    "_idx": 250
+    "_idx": 251
   },
   {
     "firma": "ULUSAL",
@@ -3803,7 +3817,7 @@
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "kredi_1775493184639_6c0e3c72",
     "taksit_no": 2,
-    "_idx": 251
+    "_idx": 252
   },
   {
     "firma": "ULUSAL",
@@ -3821,7 +3835,7 @@
     "aciklama": "ROTATİF faiz (73 gün)",
     "taksitli_id": "1775735775780",
     "taksit_no": 1,
-    "_idx": 252
+    "_idx": 253
   },
   {
     "firma": "ULUSAL",
@@ -3839,7 +3853,7 @@
     "aciklama": "ROTATİF vade sonu — anapara geri ödemesi",
     "taksitli_id": "1775735775780",
     "taksit_no": 2,
-    "_idx": 253
+    "_idx": 254
   },
   {
     "firma": "ULUSAL",
@@ -3857,7 +3871,7 @@
     "aciklama": "KMH faiz (12 gün)",
     "taksitli_id": "1775735982159",
     "taksit_no": 1,
-    "_idx": 254
+    "_idx": 255
   },
   {
     "firma": "ULUSAL",
@@ -3875,20 +3889,6 @@
     "aciklama": "KMH anapara geri ödemesi",
     "taksitli_id": "1775735982159",
     "taksit_no": 2,
-    "_idx": 255
-  },
-  {
-    "firma": "ULUSAL",
-    "tur": "MAAŞ",
-    "yer": "",
-    "kredi_no": "",
-    "tarih": "30.04.2026",
-    "ay": "Nisan",
-    "durum": "ÖDENMEDİ",
-    "anapara": 0,
-    "faiz": 0,
-    "bsmv": 0,
-    "tutar": 1000000,
-    "aciklama": ""
+    "_idx": 256
   }
 ]
