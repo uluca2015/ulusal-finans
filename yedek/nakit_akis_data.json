@@ -3699,20 +3699,6 @@
   },
   {
     "firma": "ULUSAL",
-    "tur": "MAAŞ",
-    "yer": "",
-    "kredi_no": "",
-    "tarih": "30.04.2026",
-    "ay": "Nisan",
-    "durum": "ÖDENMEDİ",
-    "anapara": 0,
-    "faiz": 0,
-    "bsmv": 0,
-    "tutar": 1000000,
-    "aciklama": ""
-  },
-  {
-    "firma": "ULUSAL",
     "tur": "ROTATİF",
     "yer": "HALKBANK",
     "kredi_no": "LR001518",
