@@ -1,5 +1,5 @@
 {
-  "api_key": "PLACEHOLDER_TEST",
+  "api_key": "PLACEHOLDER",
   "model": "gpt-4o-mini",
   "max_tokens": 800
 }
